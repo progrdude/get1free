@@ -1,0 +1,5775 @@
+[
+  {
+	"host": "el-cream.com",
+	"brand": "ELLIEVE ORGANICS",
+	"email": "mail@el-cream.com",
+	"bmail": "Ellieve Organics",
+	"epass": "k3Fg!U3xe^r3",
+	"refers": {
+	  "ellb-ecz.com": "Postcard",
+	  "ecz-pso.com": "Postcard",
+	  "ellieve-reward.com": "Postcard",
+	  "el-ecz.com": "Sticker",
+	  "ell-ecz.com": "Sticker",
+	  "el-gif.com": "Get1free",
+	  "ellieveskin.com": "Get1free"
+	},
+	"goods": {
+	  "61-8B1Y-HEO7": {
+		"asin": "B07QR6NV5P",
+		"title": "Eczema & Psoriasis Cream 4oz",
+		"stock": "1166",
+		"off": false,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 56,
+		"can": true
+	  },
+	  "Z4-F0T2-S5HH": {
+		"asin": "B07VX7KLH3",
+		"title": "Antifungal Cream 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Skin Care",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "N6-4IWB-YE4T"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "Q0-KX06-YT1U": {
+		"asin": "B089D4C8RT",
+		"title": "Eczema Relief Baby Cream 2oz",
+		"stock": "1",
+		"off": true,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "0X-WNLL-01UE"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "N6-4IWB-YE4T": {
+		"asin": "B07VX7KLH3",
+		"title": "Antifungal Cream 2oz",
+		"stock": "99",
+		"off": false,
+		"category": "Skin Care",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "Z4-F0T2-S5HH"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "finevetapet.com",
+	"brand": "FINE VETA",
+	"email": "mail@finevetapet.com",
+	"bmail": "Fine Veta",
+	"epass": "d#+?7,K&2pTm",
+	"refers": {
+	  "vet-gif.com": "Postcard",
+	  "finev-sp.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "nella-care.com",
+	"brand": "NELLACARE",
+	"email": "mail@nella-care.com",
+	"bmail": "Nellacare",
+	"epass": "A9A1hAU*B9*2",
+	"refers": {
+	  "prog-g.com": "Postcard",
+	  "es-gif.com": "Postcard",
+	  "pro-nel.com": "Sticker",
+	  "es-nel.com": "Sticker",
+	  "prog-c.com": "Get1free"
+	},
+	"goods": {
+	  "BO-3THV-058A": {
+		"asin": "B07YNL9VWM",
+		"title": "Progesterone Balance Cream 3000mg 4oz",
+		"stock": "1",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "6D-8UAP-6HDH": {
+		"asin": "B07Y89JNCZ",
+		"title": "Estrogen Balance Cream 200mg 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "nuvetaorg.com",
+	"brand": "NUVETA ORGANICS",
+	"email": "mail@nuvetaorg.com",
+	"bmail": "Nuveta Organics",
+	"epass": "DQ)o;)o#&WW$",
+	"refers": {
+	  "nuvetareward.com": "Postcard",
+	  "nuveta-organics.com": "Postcard",
+	  "nuv-oil.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "pet-dewormer.com",
+	"brand": "VETAHELP LABS",
+	"email": "mail@pet-dewormer.com",
+	"bmail": "VetaHelp Labs",
+	"epass": "^rAB[9Mbz~9L",
+	"refers": {
+	  "pawreward.com": "Postcard",
+	  "de-wor.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "petfordpet.com",
+	"brand": "PETFORD CARE est.1987",
+	"email": "mail@petfordpet.com",
+	"bmail": "Petford Care est.1987",
+	"epass": "Qm)Ma)g^(9Q+",
+	"refers": {
+	  "dw-gif.com": "Postcard",
+	  "pet-dew.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "petsfamily.org",
+	"brand": "PET CLUB BROTHERS",
+	"email": "mail@petsfamily.org",
+	"bmail": "Pet Club Brothers",
+	"epass": "c:gVZaiZ;dMK",
+	"refers": {
+	  "youreward.org": "Postcard",
+	  "pet-oil.com": "Sticker"
+	},
+	"goods": {
+	  "S2-DUHS-KKSK": {
+		"asin": "B08GG6G55D",
+		"title": "Hemp Oil 150,000 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "C6-6JZV-7TKB": {
+		"asin": "B08L3T3P2P",
+		"title": "Hemp Oil 300,000 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Pets Care",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "revicare-beauty.com",
+	"brand": "REVICARE BEAUTY",
+	"email": "mail@revicare-beauty.com",
+	"bmail": "Revicare Beauty",
+	"epass": "V^7B9RU*!**v",
+	"refers": {
+	  "rev-ahm.com": "Postcard",
+	  "rev-mc.com": "Postcard",
+	  "rev-phs.com": "Postcard",
+	  "kol-gif.com": "Postcard",
+	  "p-gif.com": "Postcard",
+	  "rev-ar.com": "Sticker",
+	  "ph-rev.com": "Sticker",
+	  "rev-cm.com": "Sticker",
+	  "revicare-lbl.com": "Sticker",
+	  "revicarelbl.com": "Sticker",
+	  "rev-ph.com": "Get1free",
+	  "rev-col.com": "Get1free"
+	},
+	"goods": {
+	  "48-2THL-NTNE": {
+		"asin": "B08DL4V7D6",
+		"title": "Purple Hair Shampoo 8oz & Conditioner 8oz (pack)",
+		"stock": "2",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "J9-VPDL-GDYD"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "Z8-9U0X-LXWQ": {
+		"asin": "B086YZMS1M",
+		"title": "Argan Oil Hair Mask 8oz",
+		"stock": "2276",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 16,
+		"can": true
+	  },
+	  "FC-63WG-98IR": {
+		"asin": "B0839LQPGR",
+		"title": "Keratin Hair Mask 8oz",
+		"stock": "2301",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "4W-2RJE-6GFM",
+		  "I0-04IW-V8RB",
+		  "97-MGEG-HJD3"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 74,
+		"can": true
+	  },
+	  "23-LYPA-V8CP": {
+		"asin": "B088LZSLSP",
+		"title": "Biotin, Collagen, Keratin Hair Mask 8oz",
+		"stock": "2074",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "97-MGEG-HJD3",
+		  "4W-2RJE-6GFM",
+		  "I0-04IW-V8RB",
+		  "ZT-HN0M-Y562"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 52,
+		"can": true
+	  },
+	  "SD-GFYH-GHJ6": {
+		"asin": "B08PKX6DBB",
+		"title": "Purple Hair Mask 8oz",
+		"stock": "3709",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "6G-P15Q-9G74",
+		  "23-AWTT-XJO5",
+		  "23-AWTT-XJO5"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 256,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "rightdiet.store",
+	"brand": "VETRAPET",
+	"email": "mail@rightdiet.store",
+	"bmail": "Vetrapet",
+	"epass": "::F9s5tWX:Y^",
+	"refers": {
+	  "nowreward.org": "Postcard",
+	  "vetra-oil.com": "Sticker"
+	},
+	"goods": {
+	  "MF-1KCQ-12UX": {
+		"asin": "B07Y26ZB4H",
+		"title": "Hemp Oil 200,000 1oz",
+		"stock": "7763",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "YA-FUZC-9APU"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 324,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "safepet.store",
+	"brand": "SAFE BAY",
+	"email": "mail@safepet.store",
+	"bmail": "Safe Bay",
+	"epass": "^*C2;L;w^qg6",
+	"refers": {
+	  "pets-reward.com": "Postcard",
+	  "pet-reward.com": "Postcard",
+	  "mlk-safe.com": "Sticker",
+	  "bw-saf.com": "Sticker"
+	},
+	"goods": {
+	  "7B-MBUU-Y3BA": {
+		"asin": "B07MGJTZYT",
+		"title": "Breath Well Cough Support 2oz",
+		"stock": "9906",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 194,
+		"can": true
+	  },
+	  "OL-F336-KEGH": {
+		"asin": "B07R4MY48X",
+		"title": "Milk Thistle 2oz",
+		"stock": "784",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "P0-045I-FMG8"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 34,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "salv-r.com",
+	"brand": "ROSITA",
+	"email": "mail@salv-r.com",
+	"bmail": "Rosita",
+	"epass": "IL!yd!b0Ke^w",
+	"refers": {
+	  "rosreward.com": "Postcard",
+	  "rosit-a.com": "Sticker"
+	},
+	"goods": {
+	  "CA-SX5B-KXCB": {
+		"asin": "B07HYYRPHR",
+		"title": "Hemp Salve 20000mg 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "F4-C0L7-ZU0N": {
+		"asin": "B07Z8C2514",
+		"title": "Hemp Salve 6000mg 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "QS-85KZ-M851": {
+		"asin": "B07HYYRPHR",
+		"title": "Hemp Salve 200000mg 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "vetflixpet.com",
+	"brand": "VETFLIX",
+	"email": "mail@vetflixpet.com",
+	"bmail": "Vetflix",
+	"epass": "l!vlI92t4MYu",
+	"refers": {
+	  "gr-grass.com": "Postcard",
+	  "vetflixmulti.com": "Postcard",
+	  "vetflixadr.com": "Postcard",
+	  "vetflixprobi.com": "Postcard",
+	  "vetflixcough.com": "Postcard",
+	  "vetflixuti.com": "Postcard",
+	  "vetflixai.com": "Postcard",
+	  "vetflixhj.com": "Postcard",
+	  "vetflix-p.com": "Sticker",
+	  "vetflix-g.com": "Sticker",
+	  "vetflix-a.com": "Sticker",
+	  "vet-ad.com": "Sticker",
+	  "vet-mul.com": "Sticker",
+	  "vet-blad.com": "Sticker",
+	  "vet-flix.com": "Sticker"
+	},
+	"goods": {
+	  "WE-EWR2-SD69": {
+		"asin": "B07VHNY9MR",
+		"title": "Allergy & Immune Drops 2oz",
+		"stock": "817",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "PD-J85K-2LRG"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 72,
+		"can": true
+	  },
+	  "B07QK1CN6Y": {
+		"asin": "B07QK1CN6Y",
+		"title": "Hip & Joint Drops 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "42-DFG3-DG228": {
+		"asin": "B07R7X5FVM",
+		"title": "Adrenal Balance Drops 2oz",
+		"stock": "742",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 14,
+		"can": true
+	  },
+	  "GF-DFG3-DG228": {
+		"asin": "B07R6TFR1K",
+		"title": "Probiotic Drops 2oz",
+		"stock": "1944",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "9M-2M09-ZZE6"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 30,
+		"can": true
+	  },
+	  "B07RDL4F69": {
+		"asin": "B07RDL4FD8",
+		"title": "Multivitamin Drops 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "DQ-7EQK-L7KO"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 78,
+		"can": false
+	  },
+	  "A8-O2WM-OP02": {
+		"asin": "B07SFVBMSD",
+		"title": "Grass Green Drops 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "E0-M0MV-8F5V": {
+		"asin": "B07QK1CN6Y",
+		"title": "UTI, Bladder & Kidney Drops 2oz",
+		"stock": "96",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "E0-M0MV-8F5V",
+		  "SF-DFGD-DG69"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 28,
+		"can": true
+	  },
+	  "MO-E5DI-HAQE": {
+		"asin": "B08KJ9HVMG",
+		"title": "Cough & Throat Soother 2oz",
+		"stock": "583",
+		"off": false,
+		"category": "Pets Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "B07R8YR369"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 32,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "wowpawpet.com",
+	"brand": "WOWPAW",
+	"email": "mail@wowpawpet.com",
+	"bmail": "Wowpaw",
+	"epass": "g^fC!X5^^l0r",
+	"refers": {
+	  "wowpw.com": "Postcard",
+	  "wowpowins.com": "Sticker"
+	},
+	"goods": {
+	  "OH-0SMD-JO35": {
+		"asin": "B07W5G5MSX",
+		"title": "Dewormer Drops 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Pets Care",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "evo-nature.com",
+	"brand": "EVONATURE",
+	"email": "mail@evo-nature.com",
+	"bmail": "Evonature",
+	"epass": "0NAL}2WE*xLk",
+	"refers": {
+	  "reward-evo.com": "Postcard",
+	  "evon-oil.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "hemptry.com",
+	"brand": "HEMPWORKS",
+	"email": "mail@hemptry.com",
+	"bmail": "Hempworks",
+	"epass": "K5XL93a4uE^j",
+	"refers": {
+	  "rewardious.com": "Postcard",
+	  "oil-wr.com": "Sticker"
+	},
+	"goods": {
+	  "HC-Z65H-NR8X": {
+		"asin": "B083V5HTFW",
+		"title": "Hemp Oil 400,000 1oz",
+		"stock": "3475",
+		"off": false,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "PR-P9BK-P5QZ"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 122,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "herbpeak.com",
+	"brand": "HERBPEAK",
+	"email": "mail@herbpeak.com",
+	"bmail": "Herbpeak",
+	"epass": "!TtQ2:-p4-hL",
+	"refers": {
+	  "peaks-reward.com": "Postcard",
+	  "herb-o.com": "Sticker"
+	},
+	"goods": {
+	  "42-FYYG-QS8H": {
+		"asin": "B07RQP3CS1",
+		"title": "Hemp Oil 500,000 1oz",
+		"stock": "1",
+		"off": true,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "L2-1RN4-F03O",
+		  "N6-GNG8-8W31",
+		  "48-UT94-982W"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "topmark.store",
+	"brand": "MARQ NUTRITION",
+	"email": "mail@topmark.store",
+	"bmail": "Marq Nutrition",
+	"epass": ":!80b*5^5p:H",
+	"refers": {
+	  "1get-reward.com": "Postcard",
+	  "mq-oil.com": "Sticker"
+	},
+	"goods": {
+	  "9T-S1G7-ZUW2": {
+		"asin": "B08YK5JTT4",
+		"title": "Hemp Oil 500,000 1oz (2-pack)",
+		"stock": "873",
+		"off": false,
+		"category": "Health Oils",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "BH-YW5C-PW4X": {
+		"asin": "B07RD6J6QX",
+		"title": "Hemp Oil 500,000 1oz",
+		"stock": "295",
+		"off": false,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "SB-1KN7-RJ8Z",
+		  "7Y-QDEO-S85C",
+		  "BH-YW5C-PW4X",
+		  "TR-MA29-K7YK"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 110,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "hempgrade.site",
+	"brand": "WELLGRADE est.2017",
+	"email": "mail@hempgrade.site",
+	"bmail": "Wellgrade est.2017",
+	"epass": "h]T698P^L&mh",
+	"refers": {
+	  "1rewardme.com": "Postcard",
+	  "grade-o.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "wisechoice.store",
+	"brand": "WISEHELP",
+	"email": "mail@wisechoice.store",
+	"bmail": "Wisehelp",
+	"epass": "GDmDnQWwWbgj",
+	"refers": {
+	  "oil-wis.com": "Sticker",
+	  "bestnutrition.info": "Get1free"
+	},
+	"goods": {
+	  "2J-MVBC-4PAZ": {
+		"asin": "B07ZP73P7S",
+		"title": "Hemp Oil 600,000 2oz",
+		"stock": "411",
+		"off": false,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "HI-MUJ7-MCNN",
+		  "72-NPKG-59VI",
+		  "H7-JBL2-2KJW"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "canna-tree.com",
+	"brand": "CANNAWILL",
+	"email": "mail@canna-tree.com",
+	"bmail": "Cannawill",
+	"epass": "gBHf_j;![p[R",
+	"refers": {
+	  "gift-will.com": "Postcard",
+	  "cana-caps.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "hemp-caps.com",
+	"brand": "Dr. LEAF",
+	"email": "mail@hemp-caps.com",
+	"bmail": "Dr. Leaf",
+	"epass": "A0PXmLa^;G9*",
+	"refers": {
+	  "shipreward.com": "Postcard",
+	  "leafreward.com": "Postcard",
+	  "leaf-caps.com": "Sticker"
+	},
+	"goods": {
+	  "I2-EBO1-G3C7": {
+		"asin": "B07RN8KKHH",
+		"title": "No Extract Hemp Oil Capsules 1000mg 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "loyalfoods.site",
+	"brand": "HEMPSHIP",
+	"email": "mail@loyalfoods.site",
+	"bmail": "Hempship",
+	"epass": "1I9*b10b7v9k",
+	"refers": {
+	  "hem-cap.com": "Sticker"
+	},
+	"goods": {
+	  "OD-IWW2-6RJB": {
+		"asin": "B07Q2KNVTV",
+		"title": "No Extract Hemp Oil Capsules 1000mg 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "H6-EMHR-B7SX": {
+		"asin": "B07RN8KKHH",
+		"title": "Hemp Capsules 400,000 60pcs",
+		"stock": "1478",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 22,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "virpeaks.com",
+	"brand": "VIRIDIAN PEAKS",
+	"email": "mail@virpeaks.com",
+	"bmail": "Viridian Peaks",
+	"epass": "*1q^s:*354UU",
+	"refers": {
+	  "virpeaksreview.com": "Postcard",
+	  "virpeaksins.com": "Sticker"
+	},
+	"goods": {
+	  "UV-MY4V-R5WH": {
+		"asin": "B087D5VLHF",
+		"title": "Hemp Capsules 300,000m\u0441g 60pcs",
+		"stock": "1924",
+		"off": false,
+		"category": "Health Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "KL-9V2H-AW1F"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 18,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "vitaland.store",
+	"brand": "VITALAND",
+	"email": "mail@vitaland.store",
+	"bmail": "Vitaland",
+	"epass": "!7!rJ*daEF6^",
+	"refers": {
+	  "vitacaprwd.com": "Postcard",
+	  "vitalandins.com": "Sticker"
+	},
+	"goods": {
+	  "W5-OC2O-B0I6": {
+		"asin": "B07RQP3CS1",
+		"title": "Hemp Capsules 400,000 60pcs",
+		"stock": "2704",
+		"off": false,
+		"category": "Health Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "WZ-ZEGY-NOWD",
+		  "W5-OC2O-B0I6",
+		  "JI-9J50-7G3K"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 14,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "am-gr.com",
+	"brand": "AMERICAN GRAMRIGHT",
+	"email": "mail@am-gr.com",
+	"bmail": "American Gramright",
+	"epass": ";Dzo*L5^j2n4",
+	"refers": {
+	  "gummiesreward.com": "Postcard",
+	  "gre-gum.com": "Sticker"
+	},
+	"goods": {
+	  "DO-AXBN-0MH7": {
+		"asin": "B07WRDL2GK",
+		"title": "Hemp Gummies 200000mg 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "AV-PL7J-UP8W",
+		  "PG-K9PV-7LUL"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "cannavibemg.com",
+	"brand": "CANNAVIBE",
+	"email": "mail@cannavibemg.com",
+	"bmail": "Cannavibe",
+	"epass": ";J-!FD466t-Z",
+	"refers": {
+	  "rewardgummy.com": "Postcard",
+	  "can-hg.com": "Sticker",
+	  "can-gum.com": "Sticker"
+	},
+	"goods": {
+	  "8X-60YK-YXXZ": {
+		"asin": "B082Q4HLBB",
+		"title": "Hemp Gummies 2,000,000 60pcs",
+		"stock": "2256",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "IP-53CJ-XXAO",
+		  "GR-T12J-WNCK",
+		  "VA-9E41-FAK5",
+		  "OQ-27N0-945E"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 158,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "ev-gum.com",
+	"brand": "EVO NATURALS",
+	"email": "mail@ev-gum.com",
+	"bmail": "Evo Naturals",
+	"epass": "(59vPQwO?6~W",
+	"refers": {
+	  "rewardgummies.com": "Postcard",
+	  "evo-gum.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "frooziehemp.com",
+	"brand": "FROOZIE",
+	"email": "mail@frooziehemp.com",
+	"bmail": "Froozie",
+	"epass": "^U^Y8cp24**-",
+	"refers": {
+	  "frooziereview.com": "Postcard",
+	  "fro-gum.com": "Sticker"
+	},
+	"goods": {
+	  "RP-T2PE-R7CT": {
+		"asin": "B07QZSBDG2",
+		"title": "Hemp Gummies 200000mg 60pcs big",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "8G-GMYM-WUJC"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "h-gumm.com",
+	"brand": "HEMPBRIDGE",
+	"email": "mail@h-gumm.com",
+	"bmail": "Hempbridge",
+	"epass": "h^g03p;2KDgU",
+	"refers": {
+	  "80hempbr.com": "Postcard",
+	  "gummigift.com": "Sticker",
+	  "h-gumm.com": "Sticker",
+	  "he-gum.com": "Sticker"
+	},
+	"goods": {
+	  "LG-ADBD-5KUK": {
+		"asin": "B07GJJT4J9",
+		"title": "Hemp Gummies 3500mg 60pcs",
+		"stock": "60",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "UQ-23X1-68EU"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 104,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "jam-gum.com",
+	"brand": "JAMASIDE",
+	"email": "mail@jam-gum.com",
+	"bmail": "Jamaside",
+	"epass": "U4:pXY*:S!NI",
+	"refers": {
+	  "jama25reward.com": "Postcard",
+	  "ja-gum.com": "Sticker"
+	},
+	"goods": {
+	  "FN-1ACI-H0O6": {
+		"asin": "B07RTKWR17",
+		"title": "Hemp Gummies 100000mg 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "hpro-gum.com",
+	"brand": "H.E.M.PRO by JAMASIDE",
+	"email": "mail@hpro-gum.com",
+	"bmail": "H.E.M.Pro by Jamaside",
+	"epass": "32k*!*Mk!WmR",
+	"refers": [],
+	"goods": {
+	  "XZ-FNOV-C1PZ": {
+		"asin": "B07VF6STM7",
+		"title": "Hemp Gummies 300000 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "Q4-WMTP-PBR3": {
+		"asin": "B07VF6STM7",
+		"title": "Hemp Gummies 900000 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "PW-K8YM-R8XG"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 18,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "jolgreen.com",
+	"brand": "JOLLYGREEN",
+	"email": "mail@jolgreen.com",
+	"bmail": "Jollygreen",
+	"epass": "t7El6IWGFTwX",
+	"refers": {
+	  "jolly-reward.com": "Postcard",
+	  "jol-g.com": "Sticker",
+	  "jo-gum.com": "Get1free"
+	},
+	"goods": []
+  },
+  {
+	"host": "healtime.site",
+	"brand": "KEYLOR NUTRITION",
+	"email": "mail@healtime.site",
+	"bmail": "Keylor Nutrition",
+	"epass": "8;BI9vX;Lx8L",
+	"refers": {
+	  "gummyreward.com": "Postcard",
+	  "fastreward.org": "Postcard",
+	  "keylor-gumm.com": "Sticker",
+	  "keylor-gum.com": "Sticker",
+	  "gum-key.com": "Sticker",
+	  "knut-g.com": "Get1free"
+	},
+	"goods": {
+	  "97-ARHF-YBX8": {
+		"asin": "B07K7KX95H",
+		"title": "Hemp Gummies 400,000 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "9M-8PIP-WQNJ",
+		  "8D-P09A-MU1U"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "56-SGSL-6538": {
+		"asin": "B07RNDKB3Y",
+		"title": "Hemp Gummies 1,000,000 60pcs",
+		"stock": "2",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "ID-XMJC-BM1W",
+		  "2E-2DX6-R2CQ"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "JH-C0EG-7475": {
+		"asin": "B07K7KX95H",
+		"title": "Hemp Gummies 950,000 90pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 34,
+		"can": false
+	  },
+	  "H1-SBO0-2VF7": {
+		"asin": "B07RNDKB3Y",
+		"title": "Hemp Gummies 3,000,000 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 180,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "twinlf.com",
+	"brand": "TWINLEAF",
+	"email": "mail@twinlf.com",
+	"bmail": "Twinleaf",
+	"epass": "RQ:RNn9h:4B;",
+	"refers": {
+	  "rewardtwin.com": "Postcard",
+	  "gum-twin.com": "Sticker"
+	},
+	"goods": {
+	  "YL-8H12-7QYA": {
+		"asin": "B07R9J98NY",
+		"title": "Hemp Gummies 300,000 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "LD-NMAG-BL4A"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "gumm-g.com",
+	"brand": "WELLBIES",
+	"email": "mail@gumm-g.com",
+	"bmail": "Wellbies",
+	"epass": "6ru24577*^6:",
+	"refers": {
+	  "wllb-g.com": "Postcard",
+	  "w-gif.com": "Postcard",
+	  "w-gum.com": "Sticker",
+	  "gum-m.com": "Sticker",
+	  "wel-hg.com": "Get1free"
+	},
+	"goods": {
+	  "FD-GD12-DA13": {
+		"asin": "B07HY3RN23",
+		"title": "Hemp Gummies 1,000,000 60pcs",
+		"stock": "2",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "JX-7YCT-WQBB",
+		  "MN-JKWD-066L",
+		  "A8-QJHL-09RL",
+		  "8Y-L1M8-IRU4",
+		  "OF-N14Y-KPRB"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "BR-FOWK-8083": {
+		"asin": "B07HY3RN23",
+		"title": "Hemp Gummies 60pcs",
+		"stock": "1101",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "mon-gum.com",
+	"brand": "HEMPMONT",
+	"email": "mail@mon-gum.com",
+	"bmail": "Hempmont",
+	"epass": "5kAR0SaQ6*mE",
+	"refers": {
+	  "mont-g.com": "Postcard",
+	  "mont-gu.com": "Postcard",
+	  "gum-mon.com": "Sticker"
+	},
+	"goods": {
+	  "NX-5V0R-55QL": {
+		"asin": "B087FX9DTJ",
+		"title": "Hemp Gummies 400,000 100pcs (cubes)",
+		"stock": "0",
+		"off": true,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "kellysnat.com",
+	"brand": "KELLY'S NATURALS",
+	"email": "mail@kellysnat.com",
+	"bmail": "Kelly's Naturals",
+	"epass": "i*ZApLQx:!9R",
+	"refers": {
+	  "k-gif.com": "Postcard",
+	  "kel-gift.com": "Postcard",
+	  "ant-cel.com": "Sticker",
+	  "sc-remu.com": "Sticker"
+	},
+	"goods": {
+	  "77-3AGM-JDOC": {
+		"asin": "B07QDB9J2V",
+		"title": "Scar Removal Cream 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "1H-QKRD-BLEL": {
+		"asin": "B082SQMF4P",
+		"title": "Anti-Cellulite Cream 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "brightexserum.com",
+	"brand": "BRIGHTEX",
+	"email": "mail@brightexserum.com",
+	"bmail": "Brightex",
+	"epass": ":Is-OJ:;*zqP",
+	"refers": {
+	  "l-bri.com": "Postcard",
+	  "brig-ser.com": "Sticker"
+	},
+	"goods": {
+	  "D4-YCD0-U53K": {
+		"asin": "B07VYSQJH7",
+		"title": "Lightening Serum 20%  1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Lightening",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "moonskinnat.com",
+	"brand": "BRILENA",
+	"email": "mail@moonskinnat.com",
+	"bmail": "Brilena",
+	"epass": "wO*Txka3I597",
+	"refers": {
+	  "bri-g.com": "Postcard",
+	  "bril-ser.com": "Sticker"
+	},
+	"goods": {
+	  "7C-Q45C-KFC3": {
+		"asin": "B08PKY39FX",
+		"title": "Dark Spot Corrector 1oz",
+		"stock": "5261",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "99-E0ZG-KT1B"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "w-cream.com",
+	"brand": "ELITEBRIGHT",
+	"email": "mail@w-cream.com",
+	"bmail": "Elitebright",
+	"epass": "a7wy^U*F7p5a",
+	"refers": {
+	  "eli-bri.com": "Sticker"
+	},
+	"goods": {
+	  "XM-XR1M-PNO9": {
+		"asin": "B08D6S16HS",
+		"title": "Brightening Serum 1.7 oz",
+		"stock": "0",
+		"off": true,
+		"category": "Lightening",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "3R-LL9B-KW30"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "em-caps.com",
+	"brand": "EMILY BRIGHT",
+	"email": "mail@em-caps.com",
+	"bmail": "Emily Bright",
+	"epass": "V22:kGeMMLa5",
+	"refers": {
+	  "em-br.com": "Postcard",
+	  "em-bri.com": "Postcard",
+	  "emily-w.com": "Sticker"
+	},
+	"goods": {
+	  "WL-4FGB-KLEH": {
+		"asin": "B07XDSQ43F",
+		"title": "Skin Whitening Capsules 60 pcs",
+		"stock": "7261",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "6F-NRDL-1VPT",
+		  "Z9-YTOR-F4VR"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "evalightskin.com",
+	"brand": "EVALIGHT",
+	"email": "mail@evalightskin.com",
+	"bmail": "Evalight",
+	"epass": "$]^A6qdek3L*",
+	"refers": {
+	  "ser-gif.com": "Postcard",
+	  "eva-brg.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "intimaxcrm.com",
+	"brand": "INTIMAX",
+	"email": "mail@intimaxcrm.com",
+	"bmail": "Intimax",
+	"epass": "46^B0z0:j8yG",
+	"refers": {
+	  "1-gif.com": "Postcard",
+	  "inti-cr.com": "Sticker"
+	},
+	"goods": {
+	  "39-H258-0QUY": {
+		"asin": "B07XF11M9Y",
+		"title": "Whitening Cream 1.7oz",
+		"stock": "0",
+		"off": true,
+		"category": "Lightening",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "lily-bright.com",
+	"brand": "LILYBRIGHT",
+	"email": "mail@lily-bright.com",
+	"bmail": "Lilybright",
+	"epass": ":PoW3Q^^H5vF",
+	"refers": {
+	  "lily-swc.com": "Postcard",
+	  "lilyreward.com": "Postcard",
+	  "lily-swp.com": "Sticker",
+	  "lil-br.com": "Sticker",
+	  "br-ca.com": "Get1free"
+	},
+	"goods": {
+	  "J7-QLUU-CI50": {
+		"asin": "B08PVNY8G2",
+		"title": "Intimate Cream 1.7oz",
+		"stock": "56",
+		"off": true,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "V4-EHSF-M3VI",
+		  "ET-22DU-6ZF6"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 238,
+		"can": false
+	  },
+	  "SP-NH3C-LXKS": {
+		"asin": "B08LSFG6RZ",
+		"title": "Skin Whitening Capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "melinaorg.com",
+	"brand": "MELINA ORGANICS",
+	"email": "mail@melinaorg.com",
+	"bmail": "Melina Organics",
+	"epass": "HFgix***g!1:",
+	"refers": {
+	  "melinareward.com": "Postcard",
+	  "melinalbl.com": "Sticker",
+	  "melinains.com": "Sticker"
+	},
+	"goods": {
+	  "60-VYMU-FF8E": {
+		"asin": "B08WHC6QHS",
+		"title": "Intimate Cream 1.7oz",
+		"stock": "10",
+		"off": true,
+		"category": "Lightening",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "G6-MBAE-W3JA",
+		  "IA-19O2-W7OH",
+		  "60-VYMU-FF8E",
+		  "DS-SD3F-SDF2"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "pb-gif.com",
+	"brand": "PEARL BRIGHT",
+	"email": "mail@pb-gif.com",
+	"bmail": "Pearl Bright",
+	"epass": "Xp8C!!sP*Ij;",
+	"refers": {
+	  "pbr-cr.com": "Postcard",
+	  "perlbright.com": "Postcard",
+	  "pearlbr.com": "Postcard",
+	  "pearl-w.com": "Sticker"
+	},
+	"goods": {
+	  "0F-EP4T-VHN8": {
+		"asin": "B08WHW6RJF",
+		"title": "Intimate Cream 1.7oz",
+		"stock": "7865",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 204,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "pure-peaks.com",
+	"brand": "PUREPEAKS Inc.",
+	"email": "mail@pure-peaks.com",
+	"bmail": "Purepeaks Inc.",
+	"epass": "6t0dt^1:xbbC",
+	"refers": {
+	  "whitecr.com": "Postcard",
+	  "purepeaksins.com": "Sticker"
+	},
+	"goods": {
+	  "13-8E34-TRCO": {
+		"asin": "B08Z7KPTDJ",
+		"title": "Intimate Cream 5000mg 1.7oz",
+		"stock": "7114",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "G4-BUOO-MO7J",
+		  "13-8E34-TRCO",
+		  "NJ-OE6V-KR6B"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 56,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "vitrees-lab.com",
+	"brand": "VITREES LABORATORIES",
+	"email": "mail@vitrees-lab.com",
+	"bmail": "Vitrees Laboratories",
+	"epass": "$w{Q=^S${FZv",
+	"refers": {
+	  "vit-br.com": "Postcard",
+	  "vita-br.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "detox-thc.com",
+	"brand": "CANNABIOLOGY est.2016",
+	"email": "mail@detox-thc.com",
+	"bmail": "Cannabiology est.2016",
+	"epass": "fBTCg5yk*C4T",
+	"refers": {
+	  "gift-ok.com": "Postcard",
+	  "det-cap.com": "Sticker",
+	  "detox-thc.store": "Get1free"
+	},
+	"goods": {
+	  "XL-VAZ7-K3IX": {
+		"asin": "B085LDH6HP",
+		"title": "THC DETOX Capsules 42pcs",
+		"stock": "2490",
+		"off": false,
+		"category": "Funky",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "RH-7NGI-SN04",
+		  "L4-RQ6F-CQQX"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 276,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "clean-ford.com",
+	"brand": "CLEANFORD",
+	"email": "mail@clean-ford.com",
+	"bmail": "Cleanford",
+	"epass": "NA1kq;Eo7R^d",
+	"refers": {
+	  "cle-tot.com": "Postcard",
+	  "cleenfordins.com": "Sticker"
+	},
+	"goods": {
+	  "0P-F208-UZJ2": {
+		"asin": "B087C4PP6S",
+		"title": "Total Drug Detox 5 in 1 42 capsules",
+		"stock": "0",
+		"off": true,
+		"category": "Funky",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "fairmilesup.com",
+	"brand": "FAIRMILE ORGANICS",
+	"email": "mail@fairmilesup.com",
+	"bmail": "Fairmile Organics",
+	"epass": "*7J;oxwJ^ve7",
+	"refers": {
+	  "fair-d3.com": "Postcard",
+	  "fair-adr.com": "Postcard",
+	  "fair-cd.com": "Postcard",
+	  "fair-b12d.com": "Postcard",
+	  "u-gif.com": "Postcard",
+	  "sm-gif.com": "Postcard",
+	  "m-gif.com": "Postcard",
+	  "liv-gif.com": "Postcard",
+	  "feed-org.com": "Postcard",
+	  "br-sup.com": "Postcard",
+	  "fair-det.com": "Postcard",
+	  "fair-icd.com": "Sticker",
+	  "zinc-f.com": "Sticker",
+	  "fm-imd.com": "Sticker",
+	  "fo-tar.com": "Sticker",
+	  "fair-sleep.com": "Sticker",
+	  "meno-rel.com": "Sticker",
+	  "liv-org.com": "Sticker",
+	  "br-org.com": "Sticker",
+	  "fo-brain.com": "Sticker",
+	  "alc-fa.com": "Sticker",
+	  "f-zinc.com": "Get1free",
+	  "fair-b12.com": "Get1free",
+	  "fo-im.com": "Get1free"
+	},
+	"goods": {
+	  "7O-XW3S-BPZ7": {
+		"asin": "B08LDBQQX7",
+		"title": "Alcohol Detox 6000mg 2oz",
+		"stock": "1583",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 16,
+		"can": true
+	  },
+	  "4Y-E0Z3-JDT9": {
+		"asin": "B07YVNTH2P",
+		"title": "Menopause Relief 2500mg 2oz",
+		"stock": "37",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "9J-U5DI-R7AG": {
+		"asin": "B07VQ8W3P4",
+		"title": "Sleep Aid with Melatonin 3000m\u0441g 2oz",
+		"stock": "6",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "NJ-XN97-X0T8": {
+		"asin": "B086JTB546",
+		"title": "Immune Health Drops 6000mg 2oz",
+		"stock": "505",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "W2-SFSQ-L66Q": {
+		"asin": "B08YDTSDCW",
+		"title": "5in1 Liquid Iodine & Cranberry Drops 2oz",
+		"stock": "1730",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "P5-OL2U-G2JG": {
+		"asin": "B08H8PK3KZ",
+		"title": "Vitamin B12 Drops 5000mcg 2oz",
+		"stock": "1327",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 12,
+		"can": true
+	  },
+	  "PA-OSQ4-FOIF": {
+		"asin": "B08H238XXZ",
+		"title": "Biotin & Collagen 15000mcg 2oz",
+		"stock": "2591",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 20,
+		"can": true
+	  },
+	  "08-VPJ4-0QPC": {
+		"asin": "B07SFK4H92",
+		"title": "Breastfeeding Support 6500mg 2oz",
+		"stock": "1174",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "Y7-UC6P-VB1A"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 124,
+		"can": true
+	  },
+	  "KY-JBNO-UE9J": {
+		"asin": "B08WLQJ2Y1",
+		"title": "Zinc Drops 2oz",
+		"stock": "4729",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "EF-950H-Z24O": {
+		"asin": "B07XXGLSVL",
+		"title": "Uric Acid Cleanse with Tart Cherry 2000mg 2oz",
+		"stock": "709",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "HB-I59I-TZ9X"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 134,
+		"can": true
+	  },
+	  "77-VR1J-NW5I": {
+		"asin": "B08TX1BTR6",
+		"title": "Adrenal Support 5 in 1 Drops",
+		"stock": "2141",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "3Z-MNVI-3W05": {
+		"asin": "B08TBVPKLJ",
+		"title": "Vitamin D3 Drops 10000IU  2oz",
+		"stock": "808",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 32,
+		"can": true
+	  },
+	  "62-8ZWY-1AN7": {
+		"asin": "B07S67J1HM",
+		"title": "Liver Cleanse 6000mg 2oz",
+		"stock": "1435",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "K5-TY4K-Q29W"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 82,
+		"can": true
+	  },
+	  "LT-AE6Q-BF15": {
+		"asin": "B08WPSNWVJ",
+		"title": "Brain Support 3000mg 2oz",
+		"stock": "2260",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "QD-0DO1-XCE7"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "fine-pure.com",
+	"brand": "FINEPURE",
+	"email": "mail@fine-pure.com",
+	"bmail": "Finepure",
+	"epass": "6n6R29l!*8:8",
+	"refers": {
+	  "fin-det.com": "Postcard",
+	  "finep-dtx.com": "Sticker"
+	},
+	"goods": {
+	  "22-3FKW-FJRG": {
+		"asin": "B083TX2SWY",
+		"title": "THC Detox Capsules 60pcs",
+		"stock": "918",
+		"off": false,
+		"category": "Funky",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 66,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "hedumaninstitute.com",
+	"brand": "HEDUMAN INSTITUTE",
+	"email": "mail@hedumaninstitute.com",
+	"bmail": "Heduman Institute",
+	"epass": "D62*64k*WVj3",
+	"refers": {
+	  "hed-drug.com": "Postcard",
+	  "dd-gif.com": "Get1free"
+	},
+	"goods": {
+	  "NF-269Q-QUT6": {
+		"asin": "B085TNDYHT",
+		"title": "Drug Detox & Withdrawal Aid Capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Funky",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "thcweedout.com",
+	"brand": "WEEDOUT",
+	"email": "mail@thcweedout.com",
+	"bmail": "Weedout",
+	"epass": "Lys*7i;U;QVE",
+	"refers": {
+	  "out-tot.com": "Postcard",
+	  "weed-d.com": "Sticker",
+	  "weedoutins.com": "Sticker"
+	},
+	"goods": {
+	  "2W-QV33-1GPI": {
+		"asin": "B086T2SHF8",
+		"title": "THC DETOX Capsules 42pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Funky",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "acne-inc.com",
+	"brand": "ACNE TREATMENT Inc.",
+	"email": "mail@acne-inc.com",
+	"bmail": "Acne Treatment Inc.",
+	"epass": "9Z;-!;H-tq55",
+	"refers": {
+	  "act-cap.com": "Postcard",
+	  "patch-a.com": "Postcard",
+	  "ac-face.com": "Postcard",
+	  "a-bal.com": "Postcard",
+	  "acne-tp.com": "Sticker",
+	  "a-cram.com": "Sticker",
+	  "ac-bal.com": "Sticker",
+	  "acne-p.com": "Get1free"
+	},
+	"goods": {
+	  "WP-U7E8-K8LI": {
+		"asin": "B07T9N7YLD",
+		"title": "Acne Face Cream 2oz",
+		"stock": "444",
+		"off": false,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "RU-GA83-407N",
+		  "WP-EKTP-4DW2",
+		  "LT-MV6U-7PZ1",
+		  "79-Z3MX-FPR0"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 194,
+		"can": true
+	  },
+	  "BP-OG4E-F3HE": {
+		"asin": "B08BTSLN67",
+		"title": "Acne Patches 120pcs",
+		"stock": "586",
+		"off": false,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "SK-EXDN-9KOD"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 118,
+		"can": true
+	  },
+	  "8A-437K-OHEJ": {
+		"asin": "B07TDQGKJC",
+		"title": "Cystic Acne Treatment Balm 1oz",
+		"stock": "26",
+		"off": true,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "RF-AALN-OE6I",
+		  "RD-66DA-5L7L"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 92,
+		"can": false
+	  },
+	  "W3-68AU-A8HQ": {
+		"asin": "B08DRKSCJK",
+		"title": "Perfect Skin Capsules 60pcs",
+		"stock": "1361",
+		"off": false,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 316,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "greengenoil.com",
+	"brand": "GREENGEN",
+	"email": "mail@greengenoil.com",
+	"bmail": "Greengen",
+	"epass": "*ulLZNCxK6dY",
+	"refers": {
+	  "quickreward.org": "Postcard",
+	  "hem-gr.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "star-green.com",
+	"brand": "STARGREEN",
+	"email": "mail@star-green.com",
+	"bmail": "Stargreen",
+	"epass": "a2POjLBq9YR:",
+	"refers": {
+	  "str-green.com": "Postcard",
+	  "starg-oil.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "brio-detox.com",
+	"brand": "BRIOBREATH NATURALS",
+	"email": "mail@brio-detox.com",
+	"bmail": "Briobreath Naturals",
+	"epass": "20TX8^o;*n;:",
+	"refers": {
+	  "ln-gif.com": "Postcard",
+	  "bio-lun.com": "Sticker",
+	  "bb-nt.com": "Get1free"
+	},
+	"goods": {
+	  "P1-YCHX-TFDH": {
+		"asin": "B08VDZY28G",
+		"title": "Lung Cleanse Capsules 90pcs",
+		"stock": "1517",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "B9-LFB1-YU6D"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 160,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "drwadesorg.com",
+	"brand": "Dr. WADE'S ORGANICS",
+	"email": "mail@drwadesorg.com",
+	"bmail": "Dr. Wade's Organics",
+	"epass": "!K9Wz76X28--",
+	"refers": {
+	  "z-wade.com": "Postcard",
+	  "in-gif.com": "Postcard",
+	  "ad-gif.com": "Postcard",
+	  "s-gif.com": "Postcard",
+	  "lor-cr.com": "Postcard",
+	  "5-gif.com": "Postcard",
+	  "ch-det.com": "Postcard",
+	  "a-cne.com": "Postcard",
+	  "zin-wad.com": "Sticker",
+	  "adr-wade.com": "Sticker",
+	  "wade-cr.com": "Sticker",
+	  "wade-vit.com": "Sticker",
+	  "wade-d.com": "Sticker",
+	  "wade-c.com": "Sticker",
+	  "wade-ac.com": "Sticker",
+	  "wad-z.com": "Get1free"
+	},
+	"goods": {
+	  "ZI-CH7M-F4QC": {
+		"asin": "B07VT8JP26",
+		"title": "Adrenal Support 5 in 1 Drops",
+		"stock": "1",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "PN-RHIS-UHM0": {
+		"asin": "B082MPL1PV",
+		"title": "Intestinal Cleanse with Cranberry Extract 5 in 1 Drops",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "VP-SR7V-C7G2": {
+		"asin": "B07W67SMRK",
+		"title": "5in1 Liquid Selenium & Vitamin E Drops",
+		"stock": "1",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "UK-LIBL-FUGJ": {
+		"asin": "B07YCMJ712",
+		"title": "5in1 Liquid Chlorophyll Detoxification Total  Drops",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "99-2ADX-PQIG": {
+		"asin": "B07WG2PTFP",
+		"title": "5in1 Acne Rosacea Serum",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "1X-NXAL-XX1T": {
+		"asin": "B07XC2NSJN",
+		"title": "5in1 Liquid Iodine & Cranberry Drops 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "X3-76DP-PWNT": {
+		"asin": "B07T41WN8H",
+		"title": "Zinc Drops 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "keto-nature.com",
+	"brand": "KETO NATURE",
+	"email": "mail@keto-nature.com",
+	"bmail": "Keto Nature",
+	"epass": "HSo^Ln!^!^lt",
+	"refers": {
+	  "ket-fi.com": "Postcard",
+	  "ket-nat.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "ketokultp.com",
+	"brand": "KETOCULT",
+	"email": "mail@ketokultp.com",
+	"bmail": "Ketocult",
+	"epass": "9Ph1*;TwI*mE",
+	"refers": {
+	  "keto-caps.com": "Postcard",
+	  "ket-ca.com": "Sticker"
+	},
+	"goods": {
+	  "SG-MEQ8-FP38": {
+		"asin": "B07Z4R61HP",
+		"title": "KETO Capsules 3000mg 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "lun-gif.com",
+	"brand": "LUNGWELL",
+	"email": "mail@lun-gif.com",
+	"bmail": "Lungwell",
+	"epass": "v1K2M4z;Ze5f",
+	"refers": {
+	  "lun-q.com": "Postcard",
+	  "lung-caps.com": "Sticker"
+	},
+	"goods": {
+	  "UR-QAZ8-4EBQ": {
+		"asin": "B07XDPHK6L",
+		"title": "Quit Smoking Capsules 45% NicoGX Concentrate 60pcs",
+		"stock": "3774",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "B3-MRXK-PXCY"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 156,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "slimgood.info",
+	"brand": "NATURELZA",
+	"email": "mail@slimgood.info",
+	"bmail": "Naturelza",
+	"epass": "*LVPg;C!Fbm^",
+	"refers": {
+	  "dropreward.com": "Postcard",
+	  "di-nat.com": "Sticker",
+	  "slm-sg.com": "Get1free"
+	},
+	"goods": {
+	  "WE-SCXV-2OBQ": {
+		"asin": "B07SBF1WDX",
+		"title": "Diet Drops 1oz",
+		"stock": "1004",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "JM-B4LN-EB28",
+		  "I4-YPRH-2HWH",
+		  "XP-M1BD-T9DO"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 348,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "nic-lab.com",
+	"brand": "NICOLEAF LABS",
+	"email": "mail@nic-lab.com",
+	"bmail": "Nicoleaf Labs",
+	"epass": ";cR924cO3!SX",
+	"refers": {
+	  "nic-leaf.com": "Postcard",
+	  "nic-fas.com": "Sticker"
+	},
+	"goods": {
+	  "3B-8JTR-2IAK": {
+		"asin": "B07WWJXW1M",
+		"title": "Quit Smoking Aid Capsules 60pcs",
+		"stock": "15",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "1P-STJ5-Z7N4": {
+		"asin": "B08J89TVZG",
+		"title": "Lung Detox Capsules 60pcs",
+		"stock": "4523",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 40,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "novacarevit.com",
+	"brand": "NOVACARE",
+	"email": "mail@novacarevit.com",
+	"bmail": "Novacare",
+	"epass": "E7K;asO:-:!R",
+	"refers": {
+	  "ncare-bf.com": "Postcard",
+	  "ncare-hb.com": "Postcard",
+	  "novacarehb.com": "Postcard",
+	  "novacarebs.com": "Postcard",
+	  "pre-multi.com": "Postcard",
+	  "hor-b.com": "Postcard",
+	  "brsupnov.com": "Postcard",
+	  "nov-pre.com": "Postcard",
+	  "nova-pr.com": "Sticker",
+	  "nova-hor.com": "Sticker",
+	  "nova-bf.com": "Sticker"
+	},
+	"goods": {
+	  "ED-MWCI-EBVS": {
+		"asin": "B08TBYNV9K",
+		"title": "Breastfeeding Support 60 capsules",
+		"stock": "2137",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "I4-8YW6-URA9": {
+		"asin": "B08CY4LQX7",
+		"title": "Hormone Balance 60 capsules",
+		"stock": "2",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "SM-V0RT-9K57": {
+		"asin": "B08WLS2TLZ",
+		"title": "Prenatal Multivitamins + DHA 200mg 60 capsules",
+		"stock": "1216",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "pureshipfib.com",
+	"brand": "PURESHIP",
+	"email": "mail@pureshipfib.com",
+	"bmail": "Pureship",
+	"epass": "U5!^Q;;M43K5",
+	"refers": {
+	  "caramelialbl.com": "Postcard",
+	  "fib-gift.com": "Postcard",
+	  "pure-fb.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "spm-center.com",
+	"brand": "SILVER PEAKS",
+	"email": "mail@spm-center.com",
+	"bmail": "Silver Peaks",
+	"epass": "9rSwb!kWwA;G",
+	"refers": {
+	  "gr-ma.com": "Postcard",
+	  "cap-p.com": "Sticker"
+	},
+	"goods": {
+	  "8D-BG61-DEPI": {
+		"asin": "B07W5L3YZ6",
+		"title": "Height Growth Maximizer Capsules 60pcs",
+		"stock": "3361",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "L5-RF82-O37X"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 218,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "skinny-diet.com",
+	"brand": "SKINNYKEY NUTRITION",
+	"email": "mail@skinny-diet.com",
+	"bmail": "Skinnykey Nutrition",
+	"epass": "s9krx*B3a!!S",
+	"refers": {
+	  "d-gif.com": "Postcard",
+	  "di-skin.com": "Sticker"
+	},
+	"goods": {
+	  "AI-YNQ1-RDC8": {
+		"asin": "B07XLDJDY7",
+		"title": "Diet Drops 2oz",
+		"stock": "11",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "vitalinanat.com",
+	"brand": "VITALINA NATURALES",
+	"email": "mail@vitalinanat.com",
+	"bmail": "Vitalina Naturales",
+	"epass": "^mbs:Bx-akR3",
+	"refers": {
+	  "vnat-gif.com": "Postcard",
+	  "vita-ket.com": "Sticker"
+	},
+	"goods": {
+	  "V1-B0UI-H1T8": {
+		"asin": "B08TBSHK61",
+		"title": "Keto Capsules 70% 60pcs",
+		"stock": "5044",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 32,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "weightlosscrp.com",
+	"brand": "WEIGHT LOSS Corp.",
+	"email": "mail@weightlosscrp.com",
+	"bmail": "Weight Loss Corp.",
+	"epass": "!wxXKGd14!!W",
+	"refers": {
+	  "ket-way.com": "Postcard",
+	  "w-ket.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "wellabsup.com",
+	"brand": "WELLABS",
+	"email": "mail@wellabsup.com",
+	"bmail": "Wellabs",
+	"epass": "Y5:a6qq4:rFZ",
+	"refers": {
+	  "w-turm.com": "Postcard",
+	  "w-liq.com": "Postcard",
+	  "w-imd.com": "Postcard",
+	  "well-bckc.com": "Postcard",
+	  "well-k2.com": "Postcard",
+	  "wel-zn.com": "Postcard",
+	  "wel-d3.com": "Postcard",
+	  "wel-els.com": "Postcard",
+	  "t-gif.com": "Postcard",
+	  "bio-gif.com": "Postcard",
+	  "b-gif.com": "Postcard",
+	  "well-lc.com": "Sticker",
+	  "well-tg.com": "Sticker",
+	  "k2-vit.com": "Sticker",
+	  "wel-cap.com": "Sticker",
+	  "b12-lab.com": "Sticker",
+	  "wel-bc.com": "Sticker",
+	  "imd-wel.com": "Sticker",
+	  "labs-v.com": "Sticker",
+	  "labs-a.com": "Sticker",
+	  "im-wel.com": "Sticker",
+	  "lio-w.com": "Sticker",
+	  "gins-w.com": "Sticker",
+	  "d3-vit.com": "Sticker",
+	  "wel-cv.com": "Sticker",
+	  "el-wel.com": "Sticker",
+	  "wel-z.com": "Sticker",
+	  "b-pepp.com": "Sticker",
+	  "bio-wel.com": "Sticker",
+	  "wel-ash.com": "Sticker",
+	  "w-tgd.com": "Get1free",
+	  "wel-lc.com": "Get1free",
+	  "wtg-gof.com": "Get1free",
+	  "w-vit3.com": "Get1free",
+	  "bio-caps.com": "Get1free",
+	  "wel-id.com": "Get1free",
+	  "w-vit12.com": "Get1free",
+	  "w-vita.com": "Get1free",
+	  "wel-ic.com": "Get1free",
+	  "w-lions.com": "Get1free",
+	  "w-gins.com": "Get1free",
+	  "w-vitd.com": "Get1free",
+	  "wel-vc.com": "Get1free",
+	  "wel-el.com": "Get1free",
+	  "zinc-d.com": "Get1free"
+	},
+	"goods": {
+	  "GJ-FHR8-JRNF": {
+		"asin": "B07RZ8KWFJ",
+		"title": "Ashwagandha with Black Pepper 2000mg 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "SC-TA2E-K52D": {
+		"asin": "B07TYYMGRY",
+		"title": "Elderberry Syrup 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 12,
+		"can": false
+	  },
+	  "KI-TX93-CPI6": {
+		"asin": "B084D35FY2",
+		"title": "Vitamin A Drops 2oz",
+		"stock": "279",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 108,
+		"can": true
+	  },
+	  "7A-BBIY-25QR": {
+		"asin": "B084Z1D3W6",
+		"title": "Zinc Drops 2oz",
+		"stock": "203",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 70,
+		"can": true
+	  },
+	  "C5-DPE3-5T9X": {
+		"asin": "B087QSNRD9",
+		"title": "Vitamin \u0421 capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 30,
+		"can": false
+	  },
+	  "EV-VB16-7NI9": {
+		"asin": "B087ZR2Z18",
+		"title": "Vitamin D3 Drops 10000IU  2oz",
+		"stock": "379",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "22-82ZN-DPDY"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 118,
+		"can": true
+	  },
+	  "RA-ANKH-WX8M": {
+		"asin": "B0881V895D",
+		"title": "Ginseng Drops 2000mg 2oz",
+		"stock": "2073",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 168,
+		"can": true
+	  },
+	  "B2-FFDC-5SNU": {
+		"asin": "B0881ST2V8",
+		"title": "Lion's Mane Drops 4000mg 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 106,
+		"can": false
+	  },
+	  "FC-5A04-ZNMA": {
+		"asin": "B086LK9VLJ",
+		"title": "Immune Health Drops 6000mg 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 12,
+		"can": false
+	  },
+	  "U2-221D-0N0V": {
+		"asin": "B07RZ8JXYW",
+		"title": "Turmeric Curcumin with Black Pepper 2000mg 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "PI-5KG1-2KHG"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "OP-9UXH-JP4Q": {
+		"asin": "B07RZ8JXYW",
+		"title": "Turmeric Ginger Capsules 60pcs",
+		"stock": "1303",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 16,
+		"can": true
+	  },
+	  "4H-1FH3-ZORB": {
+		"asin": "B08VGPDPZ4",
+		"title": "Liquid Chlorophyll 1500mg 2oz",
+		"stock": "2916",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "MJ-I0WP-HS8L"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 230,
+		"can": true
+	  },
+	  "MS-D6OW-9QPY": {
+		"asin": "B08PZG5GV8",
+		"title": "Turmeric Ginger Drops with Bioperine 2oz",
+		"stock": "155",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 32,
+		"can": true
+	  },
+	  "C4-EAQM-Q99I": {
+		"asin": "B088K5BFQV",
+		"title": "Biotin & Collagen & Keratin Capsules 15000mcg 60pcs",
+		"stock": "1618",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "C4-EAQM-Q99I",
+		  "D5-5ZSZ-2DNY"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 206,
+		"can": true
+	  },
+	  "E1-ZF9A-KWLX": {
+		"asin": "B07RX7WYBM",
+		"title": "Biotin & Collagen 15000mcg 2oz",
+		"stock": "8565",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "NG-55BN-89MK",
+		  "37-1PJ6-ISAB"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 470,
+		"can": true
+	  },
+	  "94-YHKQ-E30J": {
+		"asin": "B084KV97C4",
+		"title": "Vitamin B12 Drops 5000mcg 2oz",
+		"stock": "9546",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "SW-90BF-58SW",
+		  "98-7BZT-ETZG"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "3N-CCG3-GMEM": {
+		"asin": "B084KYX1J9",
+		"title": "Vitamin K2+D3 Drops 2oz",
+		"stock": "7765",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "YP-TQR0-EXO2"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 44,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "wiseremover.com",
+	"brand": "WISECLEAN",
+	"email": "mail@wiseremover.com",
+	"bmail": "Wiseclean",
+	"epass": "k4IkE;8K71:3",
+	"refers": {
+	  "w-rem.com": "Postcard",
+	  "wise-w.com": "Sticker"
+	},
+	"goods": {
+	  "YJ-NF75-11OU": {
+		"asin": "B0848GD2G6",
+		"title": "Wart Remover 18% 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "blond-b.com",
+	"brand": "BLONDBERRY",
+	"email": "mail@blond-b.com",
+	"bmail": "Blondberry",
+	"epass": "^;GA*akMeEGG",
+	"refers": {
+	  "bb-ton.com": "Postcard",
+	  "blo-pr.com": "Sticker"
+	},
+	"goods": {
+	  "86-4IBQ-HJ26": {
+		"asin": "B07Z3G3G8S",
+		"title": "Purple Hair Mask 8oz",
+		"stock": "4",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "blondwoodlabs.com",
+	"brand": "BLONDWOOD",
+	"email": "mail@blondwoodlabs.com",
+	"bmail": "Blondwood",
+	"epass": "f^oB:-oh4fB:",
+	"refers": {
+	  "p-blon.com": "Postcard",
+	  "sham-bl.com": "Sticker",
+	  "b-mask.com": "Sticker",
+	  "mask-bl.com": "Sticker",
+	  "blond-sh.com": "Get1free",
+	  "ker-bln.com": "Get1free"
+	},
+	"goods": {
+	  "X5-XO27-PIQ1": {
+		"asin": "B08187TNHP",
+		"title": "Purple Toning Mask 8oz",
+		"stock": "2898",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 72,
+		"can": true
+	  },
+	  "5A-LI2P-DGDX": {
+		"asin": "B086N38VTZ",
+		"title": "Biotin, Collagen, Keratin Hair Mask 8oz",
+		"stock": "1218",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "7B-TAJQ-B4QC"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "HH-YKIG-QYCV": {
+		"asin": "B0897RNYZ1",
+		"title": "Purple Hair Shampoo 8oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "bloommygms.com",
+	"brand": "BLOOMMY",
+	"email": "mail@bloommygms.com",
+	"bmail": "Bloommy",
+	"epass": "x^d:^y07u55V",
+	"refers": {
+	  "blom-cap.com": "Postcard",
+	  "blom-swp.com": "Postcard",
+	  "blm-sh.com": "Postcard",
+	  "blm-ret.com": "Postcard",
+	  "bloom-ms.com": "Postcard",
+	  "blm-gif.com": "Postcard",
+	  "blu-gift.com": "Postcard",
+	  "bloom-reward.com": "Postcard",
+	  "bl-brc.com": "Sticker",
+	  "blom-sw.com": "Sticker",
+	  "blo-sh.com": "Sticker",
+	  "wle-gof.com": "Sticker",
+	  "bloom-r.com": "Sticker",
+	  "blom-m.com": "Sticker",
+	  "bloom-hc.com": "Sticker",
+	  "hair-gum.com": "Sticker",
+	  "bloom-pkag.com": "Get1free",
+	  "blm-gof.com": "Get1free",
+	  "blom-sh.com": "Get1free",
+	  "blom-hc.com": "Get1free",
+	  "bloom-m.com": "Get1free",
+	  "bloom-h.com": "Get1free"
+	},
+	"goods": {
+	  "Y9-UE9K-5K68": {
+		"asin": "B086DLLJTF",
+		"title": "Biotin, Collagen, Keratin Hair Mask 8oz",
+		"stock": "494",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 110,
+		"can": true
+	  },
+	  "XK-3NTO-ZYT9": {
+		"asin": "B089KC3QF3",
+		"title": "Biotin, Collagen, Keratin Shampoo 8oz",
+		"stock": "1579",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 28,
+		"can": true
+	  },
+	  "EJ-CEUO-UK0A": {
+		"asin": "B082PSKMKG",
+		"title": "Biotin,Collagen,Keratin Capsules 5000mg 60pcs",
+		"stock": "5480",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "JS-E9AN-SVTF",
+		  "ZW-CMII-XMF4",
+		  "EJ-CEUO-UK0A",
+		  "HF-MJX9-RLBF"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 258,
+		"can": true
+	  },
+	  "EA-9BQG-O2ZO": {
+		"asin": "B08L8Y414R",
+		"title": "Retinol, Collagen, Hyaluronic Acid Cream 1.7oz",
+		"stock": "12122",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "XF-N3NJ-IGGP",
+		  "9Z-1ASO-CA9T"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 866,
+		"can": true
+	  },
+	  "3T-SXWS-SCX4": {
+		"asin": "B08FT5JBBB",
+		"title": "Skin Whitening Capsules 60pcs",
+		"stock": "519",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "F4-E357-W4CC"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 30,
+		"can": true
+	  },
+	  "SE-A47F-1NJ4": {
+		"asin": "B07RRYLSX9",
+		"title": "Hair Gummies 60pcs",
+		"stock": "22",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "EN-CZ18-A3DX",
+		  "SE-A47F-1NJ4",
+		  "7M-94JM-91S5",
+		  "UU-DYVK-H4GL",
+		  "FO-KTJM-5U4L"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 130,
+		"can": false
+	  },
+	  "74-5EKF-F6H2": {
+		"asin": "B08TRGSCXW",
+		"title": "Brightening Cream 1,7 oz",
+		"stock": "8273",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 70,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "eli-nat.com",
+	"brand": "ELINELLA NATURALS MCT",
+	"email": "mail@eli-nat.com",
+	"bmail": "Elinella Naturals MCT",
+	"epass": "58eLx*ZB4sYi",
+	"refers": {
+	  "mct-nat.com": "Postcard",
+	  "el-oil.com": "Sticker"
+	},
+	"goods": {
+	  "newlogo": {
+		"asin": "B07WWHFM63",
+		"title": "MCT Oil 16oz",
+		"stock": "4064",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "UD-86O5-ZYEO",
+		  "2S-B4KX-1I13"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 82,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "hairgummiesinc.com",
+	"brand": "HAIR GUMMIES Inc.",
+	"email": "mail@hairgummiesinc.com",
+	"bmail": "Hair Gummies Inc.",
+	"epass": "!7$no5^975e9",
+	"refers": {
+	  "h-gif.com": "Postcard",
+	  "hr-gum.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "joellynenaturals.com",
+	"brand": "JOELLYNE NATURALS",
+	"email": "mail@joellynenaturals.com",
+	"bmail": "Joellyne Naturals",
+	"epass": "sOMEl:5QO1OM",
+	"refers": {
+	  "jns-swc.com": "Postcard",
+	  "vag-spot.com": "Postcard",
+	  "brs-cr.com": "Postcard",
+	  "but-cr.com": "Postcard",
+	  "jns-eb.com": "Sticker",
+	  "jns-pb.com": "Sticker",
+	  "joe-tigh.com": "Sticker",
+	  "joe-bcr.com": "Sticker",
+	  "joe-brc.com": "Sticker",
+	  "jns-es.com": "Get1free",
+	  "jns-pr.com": "Get1free",
+	  "el-vag.com": "Get1free",
+	  "el-but.com": "Get1free"
+	},
+	"goods": {
+	  "VN-SJUP-0WKX": {
+		"asin": "B07WWHS7LS",
+		"title": "Butt Enhancement Cream 4oz",
+		"stock": "1828",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 78,
+		"can": true
+	  },
+	  "Y1-NQO5-JS2O": {
+		"asin": "B07WWGYM21",
+		"title": "Vaginal Tightener 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 70,
+		"can": false
+	  },
+	  "WX-8HQ8-4AVB": {
+		"asin": "B07YNL9VWM",
+		"title": "Progesterone Balance Cream 3000mg 4oz",
+		"stock": "1521",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 36,
+		"can": true
+	  },
+	  "W3-VNMV-WBJX": {
+		"asin": "B07Y89JNCZ",
+		"title": "Estrogen Balance Cream 200mg 4oz",
+		"stock": "1272",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 56,
+		"can": true
+	  },
+	  "U2-K38Q-57GN": {
+		"asin": "B082SN35Z8",
+		"title": "Breast Enhancement Cream 4oz",
+		"stock": "1316",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "US-DZK7-60OJ"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 28,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "lab-lash.com",
+	"brand": "LASH LABS",
+	"email": "mail@lab-lash.com",
+	"bmail": "Lash Labs",
+	"epass": "Nz5NLVS*6n6c",
+	"refers": {
+	  "sham-ls.com": "Postcard",
+	  "lashreward.com": "Postcard",
+	  "l-lush.com": "Sticker",
+	  "exp-lg.com": "Sticker",
+	  "lab-sham.com": "Sticker",
+	  "lashlabsins.com": "Sticker",
+	  "labslash.com": "Get1free",
+	  "l-sham.com": "Get1free"
+	},
+	"goods": {
+	  "JI-HPF5-A3IL": {
+		"asin": "B082MMRQVJ",
+		"title": "Eyelash Extension Shampoo 100ml",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "GT-JQ6V-LS7B": {
+		"asin": "B08X1GG754",
+		"title": "Eyelash Extension Glue 0.34oz",
+		"stock": "1279",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "LQ-G2PF-NFIC"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "lumiwillcosm.com",
+	"brand": "LUMIWILL COSMETIC",
+	"email": "mail@lumiwillcosm.com",
+	"bmail": "Lumiwill Cosmetic",
+	"epass": "fbDa4i30Cm!:",
+	"refers": {
+	  "lum-co.com": "Postcard",
+	  "lum-gl.com": "Sticker",
+	  "lum-cos.com": "Sticker"
+	},
+	"goods": {
+	  "4F-YFD4-440X": {
+		"asin": "B08PKH1HT7",
+		"title": "Glycolic Acid 70% Gel Peel 1oz",
+		"stock": "166",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 20,
+		"can": true
+	  },
+	  "Q0-LE1I-DVQX": {
+		"asin": "B07W682BX8",
+		"title": "Glycolic Acid Pads 50pcs",
+		"stock": "4137",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "NL-UIFC-PRG9"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 112,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "mary100.com",
+	"brand": "MARYANN ORGANICS",
+	"email": "mail@mary100.com",
+	"bmail": "Maryann Organics",
+	"epass": ":^WlWTbfMln;",
+	"refers": {
+	  "maryann-col.com": "Postcard",
+	  "mary-hf.com": "Postcard",
+	  "mary-nf.com": "Postcard",
+	  "coldeelbl.com": "Postcard",
+	  "ret-gift.com": "Postcard",
+	  "col-gift.com": "Postcard",
+	  "mar-hf.com": "Sticker",
+	  "mar-nf.com": "Sticker",
+	  "mary-ret.com": "Sticker",
+	  "mary-eye.com": "Sticker",
+	  "mary-col.com": "Sticker",
+	  "mar-fm.com": "Get1free",
+	  "mar-n.com": "Get1free"
+	},
+	"goods": {
+	  "VI-4G2J-7A3T": {
+		"asin": "B0822MFX8L",
+		"title": "Collagen Cream 1.7oz",
+		"stock": "1130",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "6E-QZOR-RV95",
+		  "QW-UJSS-S59H",
+		  "8S-WOS6-0613"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "AY-YKFT-AJLQ": {
+		"asin": "B08971YW9C",
+		"title": "Neck Firming Cream 1.7oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "TB-8FC9-IXKS"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "E8-3AXA-RH3F": {
+		"asin": "B089B6GGJS",
+		"title": "Hydro Face Moisturizer Water Gel-Cream 1.7oz",
+		"stock": "1796",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "UD-CA50-ZM3Y"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 48,
+		"can": true
+	  },
+	  "0L-Z3O1-TJH4": {
+		"asin": "B0822MXDNC",
+		"title": "Retinol Cream 3% 2oz",
+		"stock": "7263",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "6U-BFRL-KUXK",
+		  "C5-IQVA-9NM6",
+		  "QP-3GNX-V56Q"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 278,
+		"can": true
+	  },
+	  "GX-KDJM-9DC0": {
+		"asin": "B08TN165TQ",
+		"title": "Eye Cream 1.7oz",
+		"stock": "8656",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "CU-L1WR-0TK8",
+		  "23-8JKS-V890"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 62,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "n-gif.com",
+	"brand": "NELIDEW ORGANICS",
+	"email": "mail@n-gif.com",
+	"bmail": "Nelidew Organics",
+	"epass": "0GyZM^IJ3^hF",
+	"refers": {
+	  "vag-most.com": "Postcard",
+	  "neli-vag.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "sophielori.com",
+	"brand": "SOPHIE & LORI",
+	"email": "mail@sophielori.com",
+	"bmail": "Sophie & Lori",
+	"epass": "%:0J;!XzI:!Y",
+	"refers": {
+	  "eyesreward.com": "Postcard",
+	  "lor-sham.com": "Sticker",
+	  "lorigineins.com": "Sticker",
+	  "sophielorins.com": "Sticker",
+	  "s-sham.com": "Get1free"
+	},
+	"goods": []
+  },
+  {
+	"host": "blu-mix.com",
+	"brand": "BLUMIX NATURALS",
+	"email": "mail@blu-mix.com",
+	"bmail": "Blumix Naturals",
+	"epass": "L3!F^Mr9:^A5",
+	"refers": {
+	  "blumix-reward.com": "Postcard",
+	  "blum-cr.com": "Sticker"
+	},
+	"goods": {
+	  "X7-11O0-MHAK": {
+		"asin": "B07VK45Y7X",
+		"title": "Hemp Cream 300,000 4oz GREEN",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "16-C0VJ-5AVW",
+		  "OS-3MA1-2Y3E"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "crm-cr.com",
+	"brand": "CANNABRIDGE est.2009",
+	"email": "mail@crm-cr.com",
+	"bmail": "Cannabridge est.2009",
+	"epass": "Sud3bzJ6P25;",
+	"refers": {
+	  "cannaverareward.com": "Postcard",
+	  "cr-brg.com": "Sticker",
+	  "br-cr.com": "Sticker"
+	},
+	"goods": {
+	  "F9-1ANZ-H9EP": {
+		"asin": "B082WFKC4T",
+		"title": "Hemp Cream 200000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "cream-canna.com",
+	"brand": "CANNARICH",
+	"email": "mail@cream-canna.com",
+	"bmail": "Cannarich",
+	"epass": "dhK^4LF:7mGc",
+	"refers": {
+	  "c-gif.com": "Postcard",
+	  "cre-can.com": "Sticker",
+	  "can-cr.com": "Get1free"
+	},
+	"goods": {
+	  "M1-YV37-NPM8": {
+		"asin": "B07Y7GJ1RH",
+		"title": "Hemp Cream 8000mg 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "PN-Y6Z4-7OAJ": {
+		"asin": "B07Y5NYXNS",
+		"title": "Hemp Cream 50000mg 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "QV-TL8V-3ZJJ": {
+		"asin": "B0871YKKXR",
+		"title": "Hemp Cream 450,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "5Z-FLML-KISR"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "softcare.site",
+	"brand": "CARAMELIA",
+	"email": "mail@softcare.site",
+	"bmail": "Caramelia",
+	"epass": "iKe!51^0t4:K",
+	"refers": {
+	  "50caramelia.com": "Postcard",
+	  "carm-cr.com": "Sticker",
+	  "cara-melia.com": "Sticker",
+	  "cmel-crm.com": "Get1free",
+	  "car-cr.com": "Get1free"
+	},
+	"goods": {
+	  "BQ-C265-WMD8": {
+		"asin": "B083KCFFQ1",
+		"title": "Hemp Cream 5000mg 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "GT-SRCN-SQO0"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "B8-2KQP-8P6H": {
+		"asin": "B07R6N2V5W",
+		"title": "Hemp Cream 50000mg 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "OB-30AA-1ZS5": {
+		"asin": "B07MJLFDQF",
+		"title": "Hemp Cream 450,000 2oz",
+		"stock": "1",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "19-ZVGJ-D0Q8"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "6Z-HZTP-A7GF": {
+		"asin": "B08W9X88TY",
+		"title": "Hemp Cream 1,250,000 3.38oz",
+		"stock": "2855",
+		"off": false,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 26,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "col-g.com",
+	"brand": "COLDEE",
+	"email": "mail@col-g.com",
+	"bmail": "Coldee",
+	"epass": "iy*JU-X*lV6z",
+	"refers": {
+	  "coldreward.com": "Postcard",
+	  "col-fre.com": "Sticker"
+	},
+	"goods": {
+	  "UB-CNRF-0654": {
+		"asin": "B07RJT8KPS",
+		"title": "Hemp Cream 1,200,000 4oz",
+		"stock": "5",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "6X-X67S-MBZ4",
+		  "KI-EYEO-XJC9",
+		  "H6-T0GK-F8QE"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "5K-CU5I-AU5M": {
+		"asin": "B08VMYXJKP",
+		"title": "Hemp Cream 4oz",
+		"stock": "2433",
+		"off": false,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "H6-T0GK-F8QE"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 150,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "evobluebalm.com",
+	"brand": "EVOBLUE",
+	"email": "mail@evobluebalm.com",
+	"bmail": "Evoblue",
+	"epass": "^Le27899*-N0",
+	"refers": {
+	  "evobluereward.com": "Postcard",
+	  "evo-salve.com": "Sticker"
+	},
+	"goods": {
+	  "94-DS56-KZRF": {
+		"asin": "B07TLLVC48",
+		"title": "Hemp Salve 2000mg 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "d-salv.com",
+	"brand": "GREENDALE",
+	"email": "mail@d-salv.com",
+	"bmail": "Greendale",
+	"epass": "!^xk:R1O^04D",
+	"refers": {
+	  "rewardgreen.com": "Postcard",
+	  "gr-dal.com": "Sticker",
+	  "gr-dale.com": "Get1free"
+	},
+	"goods": {
+	  "6P-C2CP-7FLW": {
+		"asin": "B07Q4XGXSM",
+		"title": "Hemp Salve 250000mg 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "hemp-tree.site",
+	"brand": "GREENFORD",
+	"email": "mail@hemp-tree.site",
+	"bmail": "Greenford",
+	"epass": ":QQ3!K;q:L0x",
+	"refers": {
+	  "grnreward.com": "Postcard",
+	  "gre-can.com": "Sticker",
+	  "gre-crm.com": "Get1free",
+	  "green-cr.com": "Get1free"
+	},
+	"goods": {
+	  "GS-LT6Y-NKWG": {
+		"asin": "B07W8P2Q6R",
+		"title": "Hemp Cream 10000mg 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "I9-SX4A-T3SI": {
+		"asin": "B07SGZ77H8",
+		"title": "Hemp Cream 250,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "org-cream.com",
+	"brand": "HALEY ORGANICS",
+	"email": "mail@org-cream.com",
+	"bmail": "Haley Organics",
+	"epass": "Vk8y3x2h0XRw",
+	"refers": {
+	  "hc-ream.com": "Postcard",
+	  "hey-ley.com": "Sticker"
+	},
+	"goods": {
+	  "A5-BV3A-W164": {
+		"asin": "B0848D7D89",
+		"title": "Hemp Cream 500,000 3.4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "R2-HGSE-SOUI": {
+		"asin": "B07SZH79BS",
+		"title": "Hemp Cream 1,300,000 3.38oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "78-SP7W-GZQV",
+		  "2Y-FFKE-VG8D",
+		  "6P-8FBP-R9L1"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "crea50.com",
+	"brand": "HEMPRICH",
+	"email": "mail@crea50.com",
+	"bmail": "Hemprich",
+	"epass": ";!Z7pJf29jE;",
+	"refers": {
+	  "crm-reward.com": "Postcard",
+	  "50cre.com": "Sticker"
+	},
+	"goods": {
+	  "MU-0X1M-3TIT": {
+		"asin": "B07GDGLJW5",
+		"title": "Hemp Cream 300,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "Y8-1W5D-L6H5",
+		  "E5-GQTN-FXGV"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "jama-herbs.com",
+	"brand": "JAMA HERBS",
+	"email": "mail@jama-herbs.com",
+	"bmail": "Jama Herbs",
+	"epass": "g4:tGw!32;LQ",
+	"refers": {
+	  "jam-herbs.com": "Postcard",
+	  "jam-sal.com": "Sticker"
+	},
+	"goods": {
+	  "7A-EL7M-0YPH": {
+		"asin": "B07XDSGZS9",
+		"title": "Hemp Salve 200,000 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "luanaorg.com",
+	"brand": "LUANA ORGANICS",
+	"email": "mail@luanaorg.com",
+	"bmail": "Luana Organics",
+	"epass": "*!Jn*F;^QFmd",
+	"refers": {
+	  "luana-reward.com": "Postcard",
+	  "lu-org.com": "Sticker",
+	  "lu-salve.com": "Get1free"
+	},
+	"goods": {
+	  "IO-LS43-V4CD": {
+		"asin": "B08KGJ88FY",
+		"title": "Hemp Salve 150,000 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "KK-L72L-ASWK"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "pain-cr.com",
+	"brand": "PAIN RELIEF Corp.",
+	"email": "mail@pain-cr.com",
+	"bmail": "Pain Relief Corp.",
+	"epass": "Z1i5NxmVU!v^",
+	"refers": {
+	  "relief-rewards.com": "Postcard",
+	  "pn-cre.com": "Sticker"
+	},
+	"goods": {
+	  "": {
+		"asin": "",
+		"title": "Hemp Cream 2,000,000 4oz",
+		"stock": "-1",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "KO-DQ1N-23ED",
+		  "6A-VWX0-WN7C",
+		  "FA-ZKA6-IHFO",
+		  "NV-G48Y-JPE9"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "6A-VWX0-WN7C": {
+		"asin": "B07NJB2WX6",
+		"title": "Hemp Cream 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "KO-DQ1N-23ED",
+		  "6A-VWX0-WN7C",
+		  "FA-ZKA6-IHFO",
+		  "NV-G48Y-JPE9",
+		  "XB-8WKH-ZA97",
+		  "8N-TM9D-5TGV"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "peakrightcrm.com",
+	"brand": "PEAKRIGHT",
+	"email": "mail@peakrightcrm.com",
+	"bmail": "Peakright",
+	"epass": "3l:d!W-5y1::",
+	"refers": {
+	  "h-peak.com": "Postcard",
+	  "peakrightlbl.com": "Sticker"
+	},
+	"goods": {
+	  "Q2-IKSX-JA33": {
+		"asin": "B07T96J6BP",
+		"title": "Hemp Cream 10000mg 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "7O-DDZZ-GE7Y": {
+		"asin": "B0871YKKXR",
+		"title": "Hemp Cream 250,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "ra-care.store",
+	"brand": "RAMINA",
+	"email": "mail@ra-care.store",
+	"bmail": "Ramina",
+	"epass": "7*OA!V;w:8CU",
+	"refers": {
+	  "full-reward.com": "Postcard",
+	  "ra-hem.com": "Sticker",
+	  "ram-nhc.com": "Sticker"
+	},
+	"goods": {
+	  "QQ-ZCE5-TD9V": {
+		"asin": "B07HZ23PSS",
+		"title": "Hemp Cream 2oz",
+		"stock": "1831",
+		"off": false,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "V6-OZCY-5021",
+		  "90-7UGI-M80N",
+		  "RM-5HRV-TXKU",
+		  "R9-LKWK-U510",
+		  "QQ-ZCE5-TD9V",
+		  "3K-RMO5-QWPX"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 256,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "ber-gum.com",
+	"brand": "MAXIBEARS",
+	"email": "mail@ber-gum.com",
+	"bmail": "Maxibears",
+	"epass": ":1IR10P7k8:*",
+	"refers": {
+	  "maxi-g.com": "Postcard",
+	  "gumreward.com": "Postcard",
+	  "ma-gum.com": "Sticker"
+	},
+	"goods": {
+	  "8F-FKEE-N90H": {
+		"asin": "B07QXQJ46Y",
+		"title": "Hemp Gummies 1,000,000 60pcs",
+		"stock": "20",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "44-CU84-Q9AH",
+		  "NH-RU1G-6MXT"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "5L-X90E-8GQP": {
+		"asin": "B07QXQJ46Y",
+		"title": "Hemp Gummies 2,000,000 60pcs",
+		"stock": "5001",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "44-CU84-Q9AH",
+		  "NH-RU1G-6MXT"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 118,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "glorycream.com",
+	"brand": "GLORYWILL",
+	"email": "mail@glorycream.com",
+	"bmail": "Glorywill",
+	"epass": "764u69whz;4H",
+	"refers": {
+	  "glor-ey.com": "Postcard",
+	  "glor-r.com": "Postcard",
+	  "gl-ret.com": "Postcard",
+	  "gl-ey.com": "Postcard",
+	  "glor-ret.com": "Sticker",
+	  "glor-eye.com": "Sticker",
+	  "ret-cr.com": "Get1free",
+	  "ey-cr.com": "Get1free"
+	},
+	"goods": []
+  },
+  {
+	"host": "herb-tr.com",
+	"brand": "HEALMYLIFE",
+	"email": "mail@herb-tr.com",
+	"bmail": "HealMyLife",
+	"epass": "33^n5lF:O9Pq",
+	"refers": {
+	  "heal-ml.com": "Postcard",
+	  "tr-herb.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "ant-gif.com",
+	"brand": "DOCTOR HEAL",
+	"email": "mail@ant-gif.com",
+	"bmail": "Doctor Heal",
+	"epass": "6zP-7I0gR9*V",
+	"refers": {
+	  "doc-ant.com": "Postcard",
+	  "doc-af.com": "Sticker"
+	},
+	"goods": {
+	  "0416XPF9XYY": {
+		"asin": "B0875ZVHC6",
+		"title": "Antifungal Cream 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "SC-1S9V-OP5T",
+		  "QU-DDUR-U86G"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "sweetweedcrm.com",
+	"brand": "ELLIAN HEMP",
+	"email": "mail@sweetweedcrm.com",
+	"bmail": "Ellian Hemp",
+	"epass": "wrJ1^BYP8x;2",
+	"refers": {
+	  "eli-hem.com": "Postcard",
+	  "eli-cr.com": "Sticker"
+	},
+	"goods": {
+	  "3E-C9AQ-2UT6": {
+		"asin": "B07Z43NTD7",
+		"title": "Hemp Cream 34% 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "ter-g.com",
+	"brand": "GREENDAZE",
+	"email": "mail@ter-g.com",
+	"bmail": "Greendaze",
+	"epass": "00g^Xu1m::wu",
+	"refers": {
+	  "daze-gr.com": "Postcard",
+	  "gree-cr.com": "Sticker"
+	},
+	"goods": {
+	  "LN-A31F-K7FE": {
+		"asin": "B07Z87C4S8",
+		"title": "Hemp Cream 300,000mcg 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "grnhood.com",
+	"brand": "GREENHOOD",
+	"email": "mail@grnhood.com",
+	"bmail": "Greenhood",
+	"epass": "-DMre:*;*^w9",
+	"refers": {
+	  "gr-rep.com": "Postcard",
+	  "rod-gr.com": "Sticker"
+	},
+	"goods": {
+	  "HY-0ILS-F59M": {
+		"asin": "B086KXZST1",
+		"title": "Rodent Repellent 16oz",
+		"stock": "1",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "sh-diet.com",
+	"brand": "SHAPE SHINE",
+	"email": "mail@sh-diet.com",
+	"bmail": "Shape Shine",
+	"epass": "7v5da;m!59D8",
+	"refers": {
+	  "shap-d.com": "Postcard",
+	  "shin-dt.com": "Postcard",
+	  "d-shap.com": "Sticker"
+	},
+	"goods": {
+	  "FL-QAGE-HTP9": {
+		"asin": "B08ZSCZLQ5",
+		"title": "Diet Pills 980mg 60pcs",
+		"stock": "2580",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 32,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "new-eb.com",
+	"brand": "NEUBEAUTICS",
+	"email": "mail@new-eb.com",
+	"bmail": "Neubeautics",
+	"epass": "zs8K-g!LPx8V",
+	"refers": {
+	  "ne-retin.com": "Postcard",
+	  "neu-eg.com": "Postcard",
+	  "neu-rb.com": "Sticker",
+	  "neu-col.com": "Sticker",
+	  "neu-eb.com": "Sticker",
+	  "new-ret.com": "Get1free",
+	  "new-col.com": "Get1free"
+	},
+	"goods": {
+	  "8N-F1ZL-CDKP": {
+		"asin": "B087BYQXJZ",
+		"title": "Retinol Cream 3% 1.7oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "XH-VQGD-8AIL": {
+		"asin": "B07Y5F8L56",
+		"title": "Eye Gel Collagen Peptides 5%",
+		"stock": "312",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "BZ-4UWB-YJ81": {
+		"asin": "B0854HDSV4",
+		"title": "Collagen Cream 5% 1.7oz",
+		"stock": "4287",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 164,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "towerhemp.com",
+	"brand": "HEMPRICH",
+	"email": "mail@towerhemp.com",
+	"bmail": "Hemprich",
+	"epass": "ch*b8t0!;F;:",
+	"refers": {
+	  "rewardnow2.org": "Postcard",
+	  "he-rich.com": "Sticker"
+	},
+	"goods": {
+	  "7V-723U-H3NZ": {
+		"asin": "B087C4NRL7",
+		"title": "Hemp Oil 400,000 1oz",
+		"stock": "17",
+		"off": false,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "EU-41U8-4856"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "clif-gum.com",
+	"brand": "HEMPCLIFS",
+	"email": "mail@clif-gum.com",
+	"bmail": "Hempclifs",
+	"epass": "y-MjC3k:0TX1",
+	"refers": {
+	  "clif-br.com": "Postcard",
+	  "gum-cli.com": "Sticker"
+	},
+	"goods": {
+	  "D3-6A2C-7WQ9": {
+		"asin": "B07RG6HH2S",
+		"title": "Hemp Gummies 950,000 60pcs",
+		"stock": "1074",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 14,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "med-g.com",
+	"brand": "MEDICPROHERBALS Inc.",
+	"email": "mail@med-g.com",
+	"bmail": "Medicproherbals Inc.",
+	"epass": "69:3;803;Gq0",
+	"refers": {
+	  "eq-cr.com": "Postcard",
+	  "med-hb.com": "Sticker"
+	},
+	"goods": {
+	  "IS-LE81-EJ6W": {
+		"asin": "B07W8P2Q6R",
+		"title": "Hemp Cream 400,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "O9-ZXQ9-EA5F": {
+		"asin": "B08HYRRBXL",
+		"title": "Hemp Cream 900,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "biov-an.com",
+	"brand": "BIOVECO",
+	"email": "mail@biov-an.com",
+	"bmail": "Bioveco",
+	"epass": "*JOd;^-46^j*",
+	"refers": {
+	  "biov-ant.com": "Sticker"
+	},
+	"goods": {
+	  "1U-Q7JB-6U21": {
+		"asin": "B087BBGFBJ",
+		"title": "Antifungal Cream 2oz",
+		"stock": "2301",
+		"off": false,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "R4-V4LA-52RN"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 400,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "kp-al.com",
+	"brand": "KPCURE",
+	"email": "mail@kp-al.com",
+	"bmail": "KP Cure",
+	"epass": "^^a!5DuWE;*t",
+	"refers": {
+	  "al-kp.com": "Sticker"
+	},
+	"goods": {
+	  "BS-UXFY-BGY3": {
+		"asin": "B087QR4ZJ2",
+		"title": "Aloe Vera Gel 16oz",
+		"stock": "1",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "UU-KHAS-MQOQ"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "oil-wel.com",
+	"brand": "WELLGRADE est.2017",
+	"email": "mail@oil-wel.com",
+	"bmail": "Wellgrade est.2017",
+	"epass": "!xJN9RDpRNZN",
+	"refers": {
+	  "wel-cr.com": "Postcard",
+	  "prt-cr.com": "Postcard",
+	  "1rewardme.com": "Postcard",
+	  "grade-o.com": "Sticker"
+	},
+	"goods": {
+	  "ZP-Z7LN-3JC6": {
+		"asin": "B082V4DMVJ",
+		"title": "Hemp Cream 450,000  4oz",
+		"stock": "5",
+		"off": true,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "I7-2K87-DJZM": {
+		"asin": "B082P44ZGY",
+		"title": "Hemp Oil 300,000 1oz",
+		"stock": "3458",
+		"off": false,
+		"category": "Health Oils",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "XD-ASSV-V5DN",
+		  "52-43SF-WZRM",
+		  "WR-PPRW-IH26"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "VB-S5R5-HBUS": {
+		"asin": "B082V4DMVJ",
+		"title": "Hemp Cream 4oz",
+		"stock": "380",
+		"off": false,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "55-RJBS-SGX3"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 340,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "tal-el.com",
+	"brand": "TALENTS NUTRITION",
+	"email": "mail@tal-el.com",
+	"bmail": "Talents Nutrition",
+	"epass": "sg^1F!wNQ!m*",
+	"refers": {
+	  "tal-eld.com": "Postcard",
+	  "el-tal.com": "Sticker"
+	},
+	"goods": {
+	  "H3-WA7H-RYRT": {
+		"asin": "B08FXSD42R",
+		"title": "Elderberry Syrup 2oz",
+		"stock": "13",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "gr-gum.com",
+	"brand": "GREEGREEBEARS",
+	"email": "mail@gr-gum.com",
+	"bmail": "GreeGreeBears",
+	"epass": ":wMIT6B!hBx:",
+	"refers": {
+	  "greeg-br.com": "Postcard",
+	  "gum-gre.com": "Sticker"
+	},
+	"goods": {
+	  "V2-559G-XMQ5": {
+		"asin": "B08XMYPZ47",
+		"title": "Hemp Gummies 900,000 60pcs",
+		"stock": "714",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "PW-K8YM-R8XG"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "jama-side.com",
+	"brand": "JAMASIDE",
+	"email": "mail@jama-side.com",
+	"bmail": "Jamaside",
+	"epass": "K:W-N06;50Lz",
+	"refers": {
+	  "jamareview.com": "Postcard",
+	  "he-jam.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "uq-cr.com",
+	"brand": "HEMPUNIQ",
+	"email": "mail@uq-cr.com",
+	"bmail": "Hempuniq",
+	"epass": "bi1:0v8lvkn1",
+	"refers": {
+	  "uniq-br.com": "Postcard",
+	  "gum-unq.com": "Sticker"
+	},
+	"goods": {
+	  "LC-5NRJ-ZVVF": {
+		"asin": "B07S9F9SHC",
+		"title": "Hemp Gummies 1000000 60pcs",
+		"stock": "886",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "HU-OVET-UOFD"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 18,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "bio-el.com",
+	"brand": "BIOFORTEX",
+	"email": "mail@bio-el.com",
+	"bmail": "Biofortex",
+	"epass": "QO1e8!^;2*j6",
+	"refers": {
+	  "zin-bo.com": "Postcard",
+	  "bif-eld.com": "Postcard",
+	  "e-biof.com": "Sticker",
+	  "bo-zinc.com": "Get1free"
+	},
+	"goods": {
+	  "XA-K3TH-IGDO": {
+		"asin": "B087X8M53N",
+		"title": "Elderberry Syrup 2oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "WT-HZNX-3LTH": {
+		"asin": "B086723RT6",
+		"title": "Zinc Drops 2oz",
+		"stock": "3",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "lil-cr.com",
+	"brand": "LILYSKIN",
+	"email": "mail@lil-cr.com",
+	"bmail": "Lilyskin",
+	"epass": "x6:^96;^kfW:",
+	"refers": {
+	  "l-skin.com": "Sticker"
+	},
+	"goods": {
+	  "U4-T8O8-OB55": {
+		"asin": "B08YK8NTPT",
+		"title": "Whitening Cream 35% Hydroquix 1.7oz",
+		"stock": "565",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "U4-T8O8-OB55",
+		  "B7-GFD5-WEYJ"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 20,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "day-el.com",
+	"brand": "DAYLIVIT",
+	"email": "mail@day-el.com",
+	"bmail": "Daylivit",
+	"epass": "oF-u55-!4d;;",
+	"refers": {
+	  "el-liv.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "al-wld.com",
+	"brand": "WILD ALOE",
+	"email": "mail@al-wld.com",
+	"bmail": "Wild Aloe",
+	"epass": "2Md;plq:u7w:",
+	"refers": {
+	  "wld-al.com": "Sticker"
+	},
+	"goods": {
+	  "GY-9NWD-E5DT": {
+		"asin": "B08DJ4ZL9S",
+		"title": "Aloe Vera Gel 16oz",
+		"stock": "59",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "he-2h.com",
+	"brand": "HEMP2HELP",
+	"email": "mail@he-2h.com",
+	"bmail": "Hemp2Help",
+	"epass": "71^tE^yvTc*:",
+	"refers": {
+	  "h2h-c.com": "Sticker",
+	  "2h-cr.com": "Sticker"
+	},
+	"goods": {
+	  "6I-NMCA-6XFA": {
+		"asin": "B088X65F93",
+		"title": "Hemp Cream 1,500,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "O3-1AZS-X8Z2",
+		  "7O-DDZZ-GE7Y"
+		],
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "hellenicainc.com",
+	"brand": "HEALENICA DERMATOLOGY",
+	"email": "mail@hellenicainc.com",
+	"bmail": "Healenica Dermatology",
+	"epass": "Q9VEs^u:!sfY",
+	"refers": {
+	  "ur-hea.com": "Postcard",
+	  "hl-salv.com": "Postcard",
+	  "h-heal.com": "Sticker",
+	  "ur-heal.com": "Sticker",
+	  "heal-fis.com": "Get1free"
+	},
+	"goods": []
+  },
+  {
+	"host": "hem-u.com",
+	"brand": "HEMPUNION",
+	"email": "mail@hem-u.com",
+	"bmail": "Hempunion",
+	"epass": "!r;-xAk:G3Z!",
+	"refers": {
+	  "un-cap.com": "Postcard",
+	  "un-caps.com": "Sticker"
+	},
+	"goods": {
+	  "TI-XF7I-XH3W": {
+		"asin": "B07RP8RTBD",
+		"title": "Hemp Capsules 300,000 60pcs",
+		"stock": "2389",
+		"off": false,
+		"category": "Health Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "al-elin.com",
+	"brand": "ELINELLA NATURALS",
+	"email": "mail@al-elin.com",
+	"bmail": "Elinella Naturals",
+	"epass": "6D;z72scWS!:",
+	"refers": {
+	  "elin-al.com": "Sticker"
+	},
+	"goods": {
+	  "T0-KPV1-L3A9": {
+		"asin": "B087RKSN3V",
+		"title": "Aloe Vera Gel 8oz",
+		"stock": "3",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "RU-GA83-407N"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "un-al.com",
+	"brand": "ALOE UNIQ",
+	"email": "mail@un-al.com",
+	"bmail": "Aloe Uniq",
+	"epass": "tX9r9kO;s*Bo",
+	"refers": {
+	  "al-unq.com": "Sticker"
+	},
+	"goods": {
+	  "RU-GA83-407N": {
+		"asin": "B087QKWPLL",
+		"title": "Aloe Vera Gel 8oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "wise-det.com",
+	"brand": "WISECLEAN",
+	"email": "mail@wise-det.com",
+	"bmail": "Wiseclean",
+	"epass": "1^fd5B5iUdz!",
+	"refers": {
+	  "wise-dtx.com": "Postcard",
+	  "wise-dc.com": "Sticker"
+	},
+	"goods": {
+	  "OD-EKW3-9XKF": {
+		"asin": "B0886H8NNK",
+		"title": "THC DETOX Capsules 42pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Funky",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "lash-exp.com",
+	"brand": "LASH EXPERT",
+	"email": "mail@lash-exp.com",
+	"bmail": "Lash Expert",
+	"epass": "cLXd7k10:;aW",
+	"refers": {
+	  "exp-l.com": "Sticker"
+	},
+	"goods": {
+	  "DX-KXBP-F297": {
+		"asin": "B08TX3W8LW",
+		"title": "Eyelash Extension Glue 0.34oz",
+		"stock": "30",
+		"off": false,
+		"category": "Beauty",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "WE-NB7B-GH6G",
+		  "O0-E293-N47F"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "am-gif.com",
+	"brand": "AMWOOD NATURALS",
+	"email": "mail@am-gif.com",
+	"bmail": "AMWood Naturals",
+	"epass": "qOl!IK1NO;;b",
+	"refers": {
+	  "amw-ac.com": "Postcard",
+	  "acn-spot.com": "Sticker",
+	  "a-gif.com": "Get1free"
+	},
+	"goods": {
+	  "GG-P5NU-X3V9": {
+		"asin": "B08QHX1QF4",
+		"title": "Acne Spot Treatment 0.25oz",
+		"stock": "0",
+		"off": true,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "J3-7FQQ-JVFN": {
+		"asin": "B08FHYGHPZ",
+		"title": "Acne Patches 120pcs",
+		"stock": "11318",
+		"off": false,
+		"category": "Skin Care",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 22,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "bon-hg.com",
+	"brand": "BONESCIENCE Inc.",
+	"email": "mail@bon-hg.com",
+	"bmail": "Bonescience Inc.",
+	"epass": "Okb*n3xs2;PE",
+	"refers": {
+	  "bon-sc.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "tig-tes.com",
+	"brand": "TIGERCRAFT",
+	"email": "mail@tig-tes.com",
+	"bmail": "Tigercraft",
+	"epass": "3-M!1I6zJ:MF",
+	"refers": {
+	  "tb-tig.com": "Sticker",
+	  "tig-tb.com": "Sticker"
+	},
+	"goods": {
+	  "0T-X48T-2SQC": {
+		"asin": "B089ZNV5TR",
+		"title": "Testosteron Booster 60 Capsules",
+		"stock": "1680",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 124,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "d-bod.com",
+	"brand": "SHAPELINE",
+	"email": "mail@d-bod.com",
+	"bmail": "Shapeline",
+	"epass": ":7gSiz5^72pz",
+	"refers": {
+	  "sha-diet.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "bod-pil.com",
+	"brand": "BODIRICH NATURALS",
+	"email": "mail@bod-pil.com",
+	"bmail": "Bodirich Naturals",
+	"epass": "4R7m;4UWlzL:",
+	"refers": {
+	  "bod-cw.com": "Postcard",
+	  "pil-bod.com": "Sticker",
+	  "bodirich-pw.com": "Sticker",
+	  "bodirich-p.com": "Sticker",
+	  "bod-pow.com": "Get1free"
+	},
+	"goods": {
+	  "X6-VQLX-GCWW": {
+		"asin": "B0857HZ4RB",
+		"title": "Collagen Powder 10.7oz",
+		"stock": "73",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "NK-PW54-23UD"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "JQ-9JQA-NDON": {
+		"asin": "B0857J14QV",
+		"title": "Collagen Capsules 90pcs",
+		"stock": "182",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "E7-2R1Q-232E",
+		  "ON-YJEC-EMMS"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "legend-h.com",
+	"brand": "GREENLEGEND",
+	"email": "mail@legend-h.com",
+	"bmail": "Greenlegend",
+	"epass": "QG;!I52T1r6D",
+	"refers": {
+	  "gren-lg.com": "Postcard",
+	  "green-crm.com": "Sticker"
+	},
+	"goods": {
+	  "W9-NTTC-PVC7": {
+		"asin": "B086N3JCC7",
+		"title": "Hemp Cream 800,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "or-caps.com",
+	"brand": "ORIONPHARMA",
+	"email": "mail@or-caps.com",
+	"bmail": "Orionpharma",
+	"epass": "71M-TF*6A9Og",
+	"refers": {
+	  "orn-cp.com": "Postcard",
+	  "ort-bck.com": "Postcard",
+	  "ori-bck.com": "Postcard",
+	  "ori-ins.com": "Sticker",
+	  "or-col.com": "Get1free",
+	  "ori-cp.com": "Get1free"
+	},
+	"goods": {
+	  "RZ-BANS-8ZMW": {
+		"asin": "B088MGV3DP",
+		"title": "Biotin,Collagen,Keratin Capsules 25000mcg 60pcs",
+		"stock": "331",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "3O-XB0V-FYU0",
+		  "V4-SCJG-M95X"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 160,
+		"can": true
+	  },
+	  "1W-APA0-EOJ8": {
+		"asin": "B085GHVQNT",
+		"title": "Collagen Powder 10.7oz",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "O6-AVEF-RCGC": {
+		"asin": "B089QKN6B9",
+		"title": "Collagen Capsules 150pcs",
+		"stock": "2622",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 84,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "twin-cr.com",
+	"brand": "TWINLEAF",
+	"email": "mail@twin-cr.com",
+	"bmail": "Twinleaf",
+	"epass": "k3qRO71Hx-H*",
+	"refers": {
+	  "twl-crm.com": "Postcard",
+	  "cr-twin.com": "Sticker"
+	},
+	"goods": {
+	  "V5-EMMQ-1QIA": {
+		"asin": "B07Z43NTD7",
+		"title": "Hemp Cream 1,250,000 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Relief Cream",
+		"dog": true,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/AwayCosmo",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "jns-w.com",
+	"brand": "JOELLYNE NATURALS",
+	"email": "mail@jns-w.com",
+	"bmail": "Joellyne Naturals",
+	"epass": "*A;*jNZ13*;R",
+	"refers": {
+	  "joe-wh.com": "Sticker"
+	},
+	"goods": {
+	  "X1-A7X1-1C3G": {
+		"asin": "B08LVZ16SY",
+		"title": "Skin Whitening Capsules 60pcs",
+		"stock": "3081",
+		"off": false,
+		"category": "Lightening",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 132,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "viva-bt.com",
+	"brand": "CARAMELIA",
+	"email": "mail@viva-bt.com",
+	"bmail": "Caramelia",
+	"epass": "D^Ls8HJt!T:T",
+	"refers": {
+	  "brst-gif.com": "Postcard",
+	  "vg-gift.com": "Postcard",
+	  "bt-gif.com": "Postcard",
+	  "butt-cr.com": "Sticker",
+	  "bres-cr.com": "Sticker",
+	  "vag-cr.com": "Sticker",
+	  "viva-br.com": "Get1free",
+	  "viva-vg.com": "Get1free"
+	},
+	"goods": {
+	  "IK-72V3-JN5Y": {
+		"asin": "B08H25KVCP",
+		"title": "Butt Enhancement Cream 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "3D-11V0-TII5": {
+		"asin": "B08F5L1N22",
+		"title": "Vaginal Tightener 1oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "NH-3NJX-0W1E"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "VB-CP3V-C648": {
+		"asin": "B08H24LPCS",
+		"title": "Breast Enhancement Cream 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "KX-AH8M-YI6N"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "slm-dr.com",
+	"brand": "SLIMTIVITY",
+	"email": "mail@slm-dr.com",
+	"bmail": "Slimtivity",
+	"epass": "uzt*;r^e^w*c",
+	"refers": {
+	  "sl-diet.com": "Postcard",
+	  "slim-dt.com": "Sticker"
+	},
+	"goods": {
+	  "KI-7I13-XP81": {
+		"asin": "B08CNLVLBT",
+		"title": "Diet Drops 1oz",
+		"stock": "1768",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "bio-tin.com",
+	"brand": "BIOVALLEY",
+	"email": "mail@bio-tin.com",
+	"bmail": "Biovalley",
+	"epass": "O*:n*:zLy^2y",
+	"refers": {
+	  "bvl-gif.com": "Postcard",
+	  "val-bio.com": "Sticker"
+	},
+	"goods": {
+	  "EF-HUUT-ASJS": {
+		"asin": "B08H5NLLNJ",
+		"title": "Biotin & Collagen Drops 2oz",
+		"stock": "403",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "GW-S65K-7WS0"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 10,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "biotin-d.com",
+	"brand": "PRETTYVILLE",
+	"email": "mail@biotin-d.com",
+	"bmail": "Prettyville",
+	"epass": "ADyT;wN3I:!7",
+	"refers": {
+	  "prv-gif.com": "Postcard",
+	  "pret-b.com": "Sticker"
+	},
+	"goods": {
+	  "2S-GHES-ZHA7": {
+		"asin": "B0855VZZX5",
+		"title": "Biotin & Collagen Drops 2oz",
+		"stock": "8328",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "N7-X7ZP-6ZBE"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 242,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "avi-wr.com",
+	"brand": "AVIENSE",
+	"email": "mail@avi-wr.com",
+	"bmail": "Aviense",
+	"epass": "14t:3c1*z:e^",
+	"refers": {
+	  "avs-sc.com": "Postcard",
+	  "cr-avi.com": "Sticker",
+	  "avr-gif.com": "Sticker",
+	  "avs-gif.com": "Sticker",
+	  "av-ret.com": "Sticker",
+	  "av-cr.com": "Sticker",
+	  "avi-cr.com": "Get1free",
+	  "ret-av.com": "Get1free"
+	},
+	"goods": {
+	  "R7-48PO-VOZ6": {
+		"asin": "B08B39JQW4",
+		"title": "Crepey Skin Cream 4oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "IN-QBJG-WV7C": {
+		"asin": "B086VNPZPB",
+		"title": "Retinol Cream 3% 1.7oz",
+		"stock": "8",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "IM-8USQ-PKY4"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "S4-M8KO-1LJG": {
+		"asin": "B0894RRKST",
+		"title": "Wrinkle Repair Cream 1.7oz",
+		"stock": "9",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "YM-BFYD-6NZR"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "lor-col.com",
+	"brand": "LORANDY",
+	"email": "mail@lor-col.com",
+	"bmail": "Lorandy",
+	"epass": "eF4d!8o^;hj2",
+	"refers": {
+	  "lor-salt.com": "Postcard",
+	  "lrd-cp.com": "Postcard",
+	  "lrr-gif.com": "Postcard",
+	  "lrc-gif.com": "Postcard",
+	  "loran-hss.com": "Sticker",
+	  "n-lor.com": "Sticker",
+	  "re-lor.com": "Sticker",
+	  "c-lor.com": "Sticker",
+	  "nof-gof.com": "Get1free",
+	  "loran-ss.com": "Get1free",
+	  "lor-n.com": "Get1free",
+	  "lor-re.com": "Get1free"
+	},
+	"goods": {
+	  "G5-PB82-AT4S": {
+		"asin": "B08NPMTMGT",
+		"title": "Neck Firming Cream 1.7oz",
+		"stock": "271",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "RO-YPSJ-LDS3": {
+		"asin": "B089STVX1W",
+		"title": "Retinol Cream 3% 1.7oz",
+		"stock": "136",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "RO-YPSJ-LDS3",
+		  "EK-E12B-G4FQ"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 14,
+		"can": true
+	  },
+	  "14-DSTZ-OIZQ": {
+		"asin": "B08FXKKM26",
+		"title": "Himalayan Salt Scrub 8oz",
+		"stock": "248",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "YP-P3HO-F6BZ"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  },
+	  "FQ-UWIR-C5R8": {
+		"asin": "B089STT5MM",
+		"title": "Collagen Cream 1.7oz",
+		"stock": "672",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "6E-EQQ0-HA1L"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 24,
+		"can": true
+	  },
+	  "IA-6TY6-091O": {
+		"asin": "B08BG43R8V",
+		"title": "Night Cream 1.7oz",
+		"stock": "824",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "I7-M7I1-1AYT"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 12,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "fito-k.com",
+	"brand": "CUTEFORD ESSENTIALS",
+	"email": "mail@fito-k.com",
+	"bmail": "Cuteford Essentials",
+	"epass": "-:drFk:Y:mP*",
+	"refers": {
+	  "cute-eg.com": "Postcard",
+	  "cut-keto.com": "Postcard",
+	  "eld-cut.com": "Sticker",
+	  "eto-fit.com": "Sticker",
+	  "cut-el.com": "Get1free"
+	},
+	"goods": {
+	  "AD-MLXF-S9AZ": {
+		"asin": "B08913D1MC",
+		"title": "Keto Capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "E9-12FO-VMLB": {
+		"asin": "B08641ZF76",
+		"title": "Elderberry Gummies 60pcs",
+		"stock": "27",
+		"off": false,
+		"category": "Health Gummies",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "peak-hg.com",
+	"brand": "PEAKRISE",
+	"email": "mail@peak-hg.com",
+	"bmail": "Peakrise",
+	"epass": "5*v*7*^*fq7*",
+	"refers": {
+	  "peak-rise.com": "Postcard",
+	  "peak-r.com": "Sticker"
+	},
+	"goods": {
+	  "LR-WOSW-ULVV": {
+		"asin": "B08H56LGKF",
+		"title": "Height Growth Maximizer Capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": false,
+		"oldskus": [
+		  "K2-S8VN-CV31"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "lor-re.com",
+	"brand": "LORANDY",
+	"email": "mail@lor-re.com",
+	"bmail": "Lorandy",
+	"epass": "3gf1OtN9:!9v",
+	"refers": {
+	  "lrr-gif.com": "Postcard",
+	  "re-lor.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "for-tes.com",
+	"brand": "ROCKBORN NUTRITION",
+	"email": "mail@for-tes.com",
+	"bmail": "Rockborn Nutrition",
+	"epass": "eT7:bm:q:-!9",
+	"refers": {
+	  "tst-booster.com": "Postcard",
+	  "rock-tes.com": "Sticker"
+	},
+	"goods": {
+	  "S6-QOGW-90GT": {
+		"asin": "B089XCSGKL",
+		"title": "Testosteron Booster 60 Capsules",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "S6-QOGW-90GT",
+		  "G0-QMJ4-WX4H"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "lor-n.com",
+	"brand": "LORANDY",
+	"email": "mail@lor-n.com",
+	"bmail": "Lorandy",
+	"epass": "O5;BW580T6C5",
+	"refers": {
+	  "n-lor.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "blom-sh.com",
+	"brand": "BLOOMMY",
+	"email": "mail@blom-sh.com",
+	"bmail": "Bloommy",
+	"epass": "-1ThCM-IUS08",
+	"refers": {
+	  "blo-sh.com": "Sticker"
+	},
+	"goods": []
+  },
+  {
+	"host": "freegiveaway.club",
+	"brand": "NELIDEW ORGANICS",
+	"email": "helpcenter@freegiveaway.club",
+	"bmail": "NELIDEW ORGANICS",
+	"epass": "O5;BW580T6C5",
+	"refers": [],
+	"goods": {
+	  "QT-MZQ8-C8L9": {
+		"asin": "B07WG2PTFP",
+		"title": "Vaginal Moisturizer 1.7oz",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "s-sham.com",
+	"brand": "SOPHIE & LORI",
+	"email": "mail@s-sham.com",
+	"bmail": "Sophie & Lori",
+	"epass": "-1ThCM-IUS08",
+	"refers": {
+	  "sophie-sh.com": "Postcard",
+	  "lor-sham.com": "Sticker"
+	},
+	"goods": {
+	  "VW-LLJL-IAYP": {
+		"asin": "B07ZP51JJK",
+		"title": "Eyelash Extension Shampoo 100ml",
+		"stock": "0",
+		"off": true,
+		"category": "Beauty",
+		"dog": false,
+		"active": false,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "wel-cr.com",
+	"brand": "WELLGRADE",
+	"email": "mail@wel-cr.com",
+	"bmail": "Wellgrade",
+	"epass": "l*P3yqIn0o*;",
+	"refers": [],
+	"goods": []
+  },
+  {
+	"host": "peak-l.com",
+	"brand": "PEAKWISE",
+	"email": "mail@peak-l.com",
+	"bmail": "Peakwise",
+	"epass": "^mbs:Bx-akR3",
+	"refers": {
+	  "pw-ec.com": "Postcard",
+	  "pw-d3.com": "Postcard",
+	  "pw-qc.com": "Postcard",
+	  "p-que.com": "Sticker",
+	  "lip-v.com": "Sticker",
+	  "p-eld.com": "Sticker",
+	  "que-p.com": "Get1free",
+	  "eld-p.com": "Get1free"
+	},
+	"goods": {
+	  "AY-MC9P-ZSM4": {
+		"asin": "B08R3XMPR3",
+		"title": "Liposomal Vitamin D3 Capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "QF-HTNV-FMKU": {
+		"asin": "B08QZVCJBX",
+		"title": "Elderberry Capsules 60pcs",
+		"stock": "0",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  },
+	  "80-02GJ-V66N": {
+		"asin": "B086R5D2TS",
+		"title": "Quercetin Capsules 60pcs",
+		"stock": "1",
+		"off": true,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": false
+	  }
+	}
+  },
+  {
+	"host": "keto-biology.com",
+	"brand": "KETO BIOLOGY",
+	"email": "mail@keto-biology.com",
+	"bmail": "Keto Biology",
+	"epass": "HSo^Ln!^!^lt",
+	"refers": {
+	  "ket-fi.com": "Postcard",
+	  "ket-nat.com": "Sticker",
+	  "keto-nature.com": "Get1free"
+	},
+	"goods": {
+	  "OE-IIZV-IC8S": {
+		"asin": "B07Z2R5W5B",
+		"title": "Keto Drops 2000mg 2oz",
+		"stock": "4693",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "W9-NVAP-KHJR"
+		],
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 302,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "in-zinc.com",
+	"brand": "DAYLIVIT",
+	"email": "mail@in-zinc.com",
+	"bmail": "Daylivit",
+	"epass": "FQQ;^yV-*:V3",
+	"refers": {
+	  "zin-int.com": "Sticker"
+	},
+	"goods": {
+	  "8T-8ZE1-M7XR": {
+		"asin": "B08LKFM5DT",
+		"title": "Zinc Drops 2oz",
+		"stock": "653",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "tt-gof.com",
+	"brand": "NUTRISPARK",
+	"email": "mail@tt-gof.com",
+	"bmail": "Nutrispark",
+	"epass": "^^;1m77;s!-:",
+	"refers": {
+	  "nu-sp.com": "Postcard",
+	  "tt-ins.com": "Sticker"
+	},
+	"goods": {
+	  "YS-LD8H-ZH5Q": {
+		"asin": "B089XCSGKL",
+		"title": "Testosterone Booster 60 Capsules",
+		"stock": "2093",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 46,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "fbay-ket.com",
+	"brand": "FITBAY LABS",
+	"email": "mail@fbay-ket.com",
+	"bmail": "Fitbay labs",
+	"epass": "-!-n:Lf0YP^D",
+	"refers": {
+	  "fit-ket.com": "Sticker"
+	},
+	"goods": {
+	  "K8-0DSM-A1J3": {
+		"asin": "B08913D1MC",
+		"title": "Keto Capsules 60pcs",
+		"stock": "1126",
+		"off": false,
+		"category": "Best Choice for your Health",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/NaturalSelfcar2",
+		"twoavg": 10,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "viv-ia.com",
+	"brand": "VIVALANE ORGANICS",
+	"email": "mail@viv-ia.com",
+	"bmail": "Vivalane Organics",
+	"epass": "!6CsyhY!v*1!",
+	"refers": {
+	  "fung-a.com": "Sticker"
+	},
+	"goods": {
+	  "K8-8KUI-4YDY": {
+		"asin": "B07VX7KLH3",
+		"title": "Antifungal Cream 2oz",
+		"stock": "2366",
+		"off": false,
+		"category": "Skin Care",
+		"dog": true,
+		"active": true,
+		"oldskus": [
+		  "N6-4IWB-YE4T"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 8,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "wild-cr.com",
+	"brand": "WILDER'S TRUSTED BY MEN",
+	"email": "mail@wild-cr.com",
+	"bmail": "WILDER'S TRUSTED BY MEN",
+	"epass": "5TH9%4F{7wbd",
+	"refers": {
+	  "age-cr.com": "Postcard",
+	  "bg-wild.com": "Sticker",
+	  "moist-eye.com": "Sticker",
+	  "moist-age.com": "Sticker",
+	  "wild-bc.com": "Get1free",
+	  "eye-cr.com": "Get1free",
+	  "anti-ag.com": "Get1free"
+	},
+	"goods": {
+	  "LY-77CY-ZZHZ": {
+		"asin": "B08245DLGV",
+		"title": "Men's Eye Cream 1oz",
+		"stock": "8629",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "VB-WSHS-VQEF"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 370,
+		"can": true
+	  },
+	  "51-R18O-TVVQ": {
+		"asin": "B0894SXJC8",
+		"title": "Beard Supplement Capsules 60pcs",
+		"stock": "1929",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "SE-7G3P-ZCNB"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 66,
+		"can": true
+	  },
+	  "LC-NSA8-W0KL": {
+		"asin": "B08246V6CR",
+		"title": "Anti-Aging Cream 2oz",
+		"stock": "12011",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"oldskus": [
+		  "4C-XVKD-TY98"
+		],
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 302,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "sil-scar.com",
+	"brand": "MIRAHEAL",
+	"email": "mail@sil-scar.com",
+	"bmail": "Miraheal",
+	"epass": "w3H*jM3zPGQw",
+	"refers": [],
+	"goods": {
+	  "BH-X3PJ-2WL9": {
+		"asin": "B08P26WVL5",
+		"title": "Scar Removal Sheets  4pcs",
+		"stock": "1747",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 58,
+		"can": true
+	  }
+	}
+  },
+  {
+	"host": "lori-n.com",
+	"brand": "LORILANE",
+	"email": "mail@lori-n.com",
+	"bmail": "Lorilane",
+	"epass": "w3H*jM3zPGQw",
+	"refers": {
+	  "n-lori.com": "Sticker"
+	},
+	"goods": {
+	  "MD-LTLV-WNQR": {
+		"asin": "B08R7GCWBH",
+		"title": "Nail Glue 7ml",
+		"stock": "1643",
+		"off": false,
+		"category": "Beauty",
+		"dog": false,
+		"active": true,
+		"twitter": "https:\/\/twitter.com\/HangingGiveawa1",
+		"twoavg": 148,
+		"can": true
+	  }
+	}
+  }
+]
